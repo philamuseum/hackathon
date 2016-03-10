@@ -1,0 +1,1128 @@
+{
+    "locations": [
+      {
+        "name": "100",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "101",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "102",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "103",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "104",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "105",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "106",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "107",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "108",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "109",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "110",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "111",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "112",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "113",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "114",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "115",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "116",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "117",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "118",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "119",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "120",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "121",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "122",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "123",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "124",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "150",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "151",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "152",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "153",
+        "floor": "first",
+        "enabled": true,
+        "type": "gallery"
+      },
+      {
+        "name": "154",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "155",
+        "floor": "first",
+        "enabled": true,
+        "type": "gallery"
+      },
+      {
+        "name": "156",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "157",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "158",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "159",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "160",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "161",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "162",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "163",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "164",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "165",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "165a",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "166",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "167",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "167a",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "168",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "169",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "170",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "171",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "172",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "173",
+        "floor": "first",
+        "enabled": true,
+        "type": "gallery"
+      },
+      {
+        "name": "174",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "175",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "176",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "177",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "178",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "179",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "180",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "181",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "182",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "183",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "184",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "185",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "186",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "187",
+        "floor": "first",
+        "type": "gallery"
+      },
+      {
+        "name": "188",
+        "floor": "first",
+        "enabled": true,
+        "type": "gallery"
+      },
+      {
+        "name": "bath_101",
+        "type": "bathroom",
+        "floor": "first",
+        "title": "Men, Women - American Art (Accessible)",
+        "type": "gallery"
+      },
+      {
+        "name": "bath_159",
+        "type": "bathroom",
+        "floor": "first",
+        "title": "Men - European Art (Accessible)",
+        "type": "gallery"
+      },
+      {
+        "name": "bath_165a",
+        "type": "bathroom",
+        "floor": "first",
+        "title": "Women - European Art (Accessible)",
+        "type": "gallery"
+      },
+      {
+        "name": "200",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "201",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "202",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "203",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "204",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "205",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "206",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "207",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "208",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "209",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "210",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "211",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "212",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "213",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "213a",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "214",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "215",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "216",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "217",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "218",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "219",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "220",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "221",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "222",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "223",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "225",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "226",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "233",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "233a",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "234",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "235",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "236",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "237",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "238",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "239",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "240",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "240a",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "241",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "242",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "243",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "244",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "245",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "246",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "247",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "248",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "249",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "250",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "251",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "252",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "253",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "254",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "255",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "256",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "257",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "258",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "259",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "260",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "261",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "262",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "263",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "264",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "265",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "266",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "267",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "268",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "269",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "270",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "271",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "272",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "273",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "274",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "275",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "276",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "276a",
+        "floor": "second",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_1_T_L",
+        "floor": "first",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_1_M_L",
+        "floor": "first",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_1_B_L",
+        "floor": "first",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_1_T_R",
+        "floor": "first",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_1_M_R",
+        "floor": "first",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_1_B_R",
+        "floor": "first",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "entrance_east",
+        "floor": "first",
+        "title": "East Entrance Info Desk",
+        "type": "info"
+      },
+      {
+        "name": "GSH_2_T_L",
+        "floor": "second",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_2_M_L",
+        "floor": "second",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_2_B_L",
+        "floor": "second",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_2_T_R",
+        "floor": "second",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_2_M_R",
+        "floor": "second",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "GSH_2_B_R",
+        "floor": "second",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "bath_275",
+        "type": "bathroom",
+        "floor": "second",
+        "title": "Women - European Art (Accessible)"
+      },
+      {
+        "name": "bath_258_262",
+        "type": "bathroom",
+        "floor": "second",
+        "title": "Men - European Art (Accessible)"
+      },
+      {
+        "name": "entrance_west",
+        "floor": "ground",
+        "title": "West Entrance Info Desk",
+        "type": "info"
+      },
+      {
+        "name": "coat_L",
+        "floor": "ground",
+        "title": "Coat Check & ATM",
+        "type": "info"
+      },
+      {
+        "name": "coat_R",
+        "floor": "ground",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "48",
+        "floor": "ground",
+        "type": "gallery"
+      },
+      {
+        "name": "49",
+        "floor": "ground",
+        "title": "Art Splash Gallery",
+        "type": "info"
+      },
+      {
+        "name": "50",
+        "floor": "ground",
+        "type": "gallery"
+      },
+      {
+        "name": "education",
+        "floor": "ground",
+        "title": "Education Classrooms",
+        "type": "gallery"
+      },
+      {
+        "name": "project",
+        "floor": "ground",
+        "title": "Art Splash Studio",
+        "type": "info"
+      },
+      {
+        "name": "hallway_48",
+        "floor": "ground",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "seminar",
+        "floor": "ground",
+        "title": "Seminar Room",
+        "type": "gallery"
+      },
+      {
+        "name": "hallway_staff",
+        "floor": "ground",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "HBG",
+        "floor": "ground",
+        "title": "Honickman and Berman Galleries",
+        "type": "gallery"
+      },
+      {
+        "name": "VPA",
+        "floor": "ground",
+        "title": "Van Pelt Auditorium",
+        "type": "gallery"
+      },
+      {
+        "name": "elevator_48",
+        "type": "elevator",
+        "floor": "ground",
+        "type": "gallery"
+      },
+      {
+        "name": "elevator_49",
+        "type": "elevator",
+        "floor": "ground",
+        "enabled": "false"
+      },
+      {
+        "name": "hallway_education",
+        "floor": "ground",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "LFH",
+        "floor": "ground",
+        "title": "Lenfest Hall",
+        "type": "info"
+      },
+      {
+        "name": "LFH_hallway",
+        "floor": "ground",
+        "title": "none",
+        "type": "gallery"
+      },
+      {
+        "name": "bath_49",
+        "type": "bathroom",
+        "floor": "ground",
+        "title": "Men, Women - Art Splash Gallery"
+      },
+      {
+        "name": "bath_48",
+        "type": "bathroom",
+        "floor": "ground",
+        "title": "Men, Women - West Entrance"
+      },
+      {
+        "name": "bath_hallway_education_T",
+        "type": "bathroom",
+        "floor": "ground",
+        "title": "Men, Women - Cafeteria"
+      },
+      {
+        "name": "bath_hallway_education_2",
+        "type": "bathroom",
+        "floor": "ground",
+        "title": "Men, Women - Cafeteria (Accessible)"
+      },
+      {
+        "name": "222b_G",
+        "floor": "ground",
+        "type": "stairs",
+        "title": "Stairs 222b"
+      },
+      {
+        "name": "222b_1",
+        "floor": "first",
+        "type": "stairs",
+        "title": "Stairs 222b"
+      },
+      {
+        "name": "222b_2",
+        "floor": "second",
+        "type": "stairs",
+        "title": "Stairs 222b"
+      },
+      {
+        "name": "290b_1",
+        "floor": "first",
+        "type": "stairs",
+        "title": "Stairs 290b"
+      },
+      {
+        "name": "LFH_G_stairs",
+        "floor": "ground",
+        "type": "stairs",
+        "enabled": true,
+        "title": "none"
+      },
+      {
+        "name": "LFH_1_stairs",
+        "floor": "first",
+        "type": "stairs",
+        "enabled": true,
+        "title": "none"
+      },
+      {
+        "name": "GSH_1_stairs",
+        "floor": "first",
+        "type": "stairs",
+        "enabled": true,
+        "title": "none"
+      },
+      {
+        "name": "GSH_2_stairs",
+        "floor": "second",
+        "type": "stairs",
+        "enabled": true,
+        "title": "none"
+      },
+      {
+        "name": "276b_2",
+        "floor": "second",
+        "type": "stairs",
+        "enabled": true,
+        "title": "Stairs 276b"
+      },
+      {
+        "name": "276b_1",
+        "floor": "first",
+        "type": "stairs",
+        "enabled": true,
+        "title": "Stairs 276b"
+      },
+      {
+        "name": "elevator_166",
+        "floor": "first",
+        "type": "elevator",
+        "enabled": true,
+        "title": "North Elevator"
+      },
+      {
+        "name": "elevator_276",
+        "floor": "second",
+        "type": "elevator",
+        "enabled": true,
+        "title": "North Elevator"
+      },
+      {
+        "name": "elevator_100",
+        "floor": "first",
+        "type": "elevator",
+        "title": "South Elevator"
+      },
+      {
+        "name": "elevator_222",
+        "floor": "second",
+        "type": "elevator",
+        "title": "South Elevator"
+      },
+      {
+        "name": "elevator_GSH_1_east_N",
+        "floor": "first",
+        "type": "elevator",
+        "enabled": "false",
+        "title": "East Elevators"
+      },
+      {
+        "name": "elevator_GSH_1_east_S",
+        "floor": "first",
+        "type": "elevator",
+        "enabled": true,
+        "title": "East Elevators"
+      },
+      {
+        "name": "elevator_GSH_2_east_N",
+        "floor": "second",
+        "type": "elevator",
+        "enabled": "false",
+        "title": "East Elevators"
+      },
+      {
+        "name": "elevator_GSH_2_east_S",
+        "floor": "second",
+        "type": "elevator",
+        "enabled": true,
+        "title": "East Elevators"
+      },
+      {
+        "name": "elevator_education",
+        "floor": "ground",
+        "type": "elevator",
+        "enabled": true,
+        "title": "South Elevator"
+      },
+      {
+        "name": "elevator_staff",
+        "floor": "ground",
+        "type": "elevator",
+        "enabled": true,
+        "title": "North Elevator"
+      },
+      {
+        "name": "cafe_balcony",
+        "floor": "first",
+        "type": "food",
+        "enabled": true,
+        "title": "Balcony Cafe"
+      },
+      {
+        "name": "shop_balcony",
+        "floor": "first",
+        "type": "store",
+        "enabled": true,
+        "title": "Museum Store Balcony"
+      },
+      {
+        "name": "shop_main",
+        "floor": "ground",
+        "type": "store",
+        "enabled": true,
+        "title": "Museum Store Main Store"
+      },
+      {
+        "name": "granite_hill",
+        "floor": "ground",
+        "type": "food",
+        "title": "Granite Hill Restaurant"
+      },
+      {
+        "name": "cafeteria",
+        "type": "food",
+        "floor": "ground",
+        "title": "Cafeteria"
+      },
+      {
+        "name": "cafeteria_annex",
+        "floor": "ground",
+        "type": "food",
+        "title": "Cafeteria Annex"
+      },
+      {
+        "name": "shop_special",
+        "type": "store",
+        "floor": "first",
+        "title": "Museum Store Special Exhibition"
+      }
+    ]
+}
