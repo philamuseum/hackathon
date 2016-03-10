@@ -1,3 +1,6 @@
+[logo]: https://raw.githubusercontent.com/philamuseum/hackathon/master/documentation/logo.JPG "Power of Art Hackathon"
+
+![alt text][logo]
 # Power of Art Hackathon
 
 ## Data
