@@ -1,55 +1,134 @@
-[logo]: https://raw.githubusercontent.com/philamuseum/hackathon/master/documentation/logo.JPG "Power of Art Hackathon"
+MAKE YOUR BEST ART AND TECH MASHUP INTO A DIGITAL GAME!
+Bring your curiosity, creativity, and tech skills to this extended-format hackathon. From April 5 to April 28, create a digital game inspired by the Museum.
+You must purchase a hackathon ticket from the Philadelphia Museum of Art's site, here in order to be eligible to win. To submit a project on DevPost, you'll be asked for your Order Confirmation number on your Hackathon ticket from the Philadelphia Museum of Art.
 
-![alt text][logo]
+During Philly Tech Week, present your game to a panel of judges and a public audience for a chance to win the grand prize ($2,000 and Museum memberships for each team member), the People’s Choice award ($500), or both.
+
+CHALLENGE DETAILS
+Create a digital game inspired by the Museum. Teams can have up to six members. Bring a team or form one at the kickoff.
+
+YOUR HACKATHON TICKET INCLUDES:
+Admission to the Hackathon 2.0 kickoff on April 5, Hacklabs on April 12 and 19, and final judging on May 3rd
+
+A GitHub repository containing access to iBeacons installed in the Museum; collections information for artworks on view in a JSON file, including thumbnail and large image assets; and digital floor plans of the Museum
+
+Team workspace designed by Hive76
+
+Food and drinks
+
+Access to Museum staff for questions about Museum data, art, and testing
+
+SCHEDULE OF EVENTS
+Hackathon 2.0 Kickoff
+Wednesday, April 5
+6:00–8:30 p.m.
+The full judging criteria and Museum datasets will be revealed.Space is limited; advance reservations encouraged. 
+
+Hacklabs
+Wednesday, April 12
+5:00–8:30 p.m. 
+Team Time- Staff, space, and food available for you at the Museum 
+Staff Talk: Museum Data with Jessica Milby, Assistant Director for Collection Information 
+Demo: Microsoft HoloLens with Amanda Lange, Technical Evangelist, Microsoft
+
+Wednesday, April 19 
+5:00–8:30 p.m. 
+Team Time- Staff, space, and food available for you at the Museum 
+Staff Talk: Prototyping and iBeacons with Peter Alt, Interactive Developer 
+Staff present: Marla Shoemaker, The Kathleen C. Sherrerd Senior Curator of Education
+
+Judging and Closing Event
+Wednesday, May 3
+5:00–7:00 p.m.
+Networking Happy Hour
+7:00 p.m.
+Finalists’ Presentations
+8:00 p.m.
+Awards Ceremony
+
+ELIGIBILITY
+Employees of the Philadelphia Museum of Art are not eligible.
+
+You must purchase a hackathon ticket from the Philadelphia Museum of Art's site, here in order to be eligible to win. To submit a project on DevPost, you will be asked for your Order Confirmation number on your Hackathon ticket from the Philadelphia Museum of Art.
+
+REQUIREMENTS
+Team members must purchase a hackathon ticket from the Philadelphia Museum of Art's site, here in order to be eligible to win. 
+
+Your team is required to submit a video demo of your game as a URL in the Devpost required Video URL field under Submissions by April 28 at 8 p.m. EDT.
+
+Projects should be developed during the course of the month-long hackathon.
+
+We do ask for source code for the judges to review. While we encourage participants to consider open source, it is not required- all files uploaded will only be seen by the judges and hackathon managers. We ask for source code for review, not ownership, as stated in the IP agreement, here. 
+
+HOW TO ENTER
+Start by buying a ticket from the Philadelphia Museum of Art's site, here.
+Register on DevPost, create a project, and add your teammates.
+Spend the month of April with your team to build a game that wows the judges and the public. Museum staff will be available in person and online at specific times- further information will be shared with participants.
+Submit your project on DevPost by 8 p.m. EDT, April 28th, and may the best game win!
+
+RULES AND PRIZES
+You must purchase a hackathon ticket from the Philadelphia Museum of Art's site, here in order to be eligible to win. To submit a project on DevPost, you will be asked for your Order Confirmation number on your Hackathon ticket from the Philadelphia Museum of Art. Teams must submit their games online by April 28, 2017. Judges will review each entry and notify final teams by May 1. The top five teams will present their games to judges and a public audience on Wednesday, May 3. The winning team receives a prize of $2,000 and individual Museum memberships for all team members. The audience’s favorite takes home the People’s Choice award and $500.
+
+All participants of Hackathon 2.0 must abide by the Code of Conduct and IP agreement below. Participants violating the code of coduct may be asked to leave the event and the Museum.
+
+CODE OF CONDUCT
+We value the participation of each member of the community and want everyone to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to show respect and courtesy to other hackathon participants, Museum visitors, and Museum staff.
+
+To make clear what is expected, all participants associated with the Philadelphia Museum of Art Hackathon are required to adhere to the following Code of Conduct (including the Short and Long Versions).
+
+The Short Version
+The Philadelphia Museum of Art is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants, staff, or visitors in any form.
+
+All communication should be appropriate for a professional audience including people of many different backgrounds.
+
+Be respectful. Be kind to others. Do not insult or put down other participants. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+
+Participants violating these rules may be asked to leave the event and the Museum.
+
+Thank you for helping make this a welcoming, friendly event for all.
+
+The Long Version
+Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, or religion, pornographic or obscene images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording without voluntary consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Harassment can include any behavior that makes another person feel targeted or uncomfortable.
+
+Photography is encouraged, but participants, staff, and/or Museum visitors must be given a reasonable chance to opt out from being photographed. If they object to the taking of their photograph, comply with their request. It is inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).   You must also follow the Museum’s policies relating to photography in the galleries as may be communicated by Museum staff or security guards.
+
+As this is a hackathon we like to explicitly note that the hacks created at our hackathon are equally subject to the anti-harassment policy.
+
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate.
+
+If a participant engages in behavior that violates this code of conduct, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no eligibility for reimbursement or refund of any type. 
+
+We expect participants to follow the code of conduct and other Museum policies throughout the Museum as communicated by Museum staff or security guards.  At all times be respectful of the art and other property at the Museum and do not touch or endanger any art objects at any time.
+
+The Museum reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.  If you have any questions regarding these policies, please speak with a Museum staff member.
+
+Reporting Procedures and Contact Information
+If you are being harassed, notice that someone else is being harassed, or think there may be a potential violation of the code of conduct, please contact a member of hackathon staff immediately. If you prefer email, please report it using the email below: 
+
+hackathon@philamuseum.org
+
+All reporters have the right to remain anonymous. We value your attendance. Museum staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the hackathon. 
+
+IP AGREEMENT:
+Who owns the code that my team writes?
+
+Software code developed during the event are the property of the creators. By registering and entering a submission, you grant the Museum an irrevocable, nonexclusive, royalty-free license to use and distribute all other expressions of the ideas represented by the code or apps developed during the hackathon. You also agree that the Museum may explore such ideas with you or on its own. We encourage participants to open source their projects to both share the work with the greater community and promote innovation in this area.
+
+What about rights of other third parties?
+
+You agree that you will not submit content that is copyrighted, protected by trade secret or subject to any intellectual property or other proprietary rights, including privacy and publicity rights. To the extent your content includes copyrighted materials, you are responsible for securing any necessary permissions or other rights. If the Museum becomes subject to claims or damages resulting from your work, you will be responsible for them.
+
+Are there any other restrictions on the content of our work product?
+
+You agree that your work will not include content that is unlawful, obscene, defamatory or libelous. You also agree not to post advertisements or solicitations of business. You also agree that all content you submit will not contain any viruses, Trojan horses, worms or other disabling devices, malware or harmful code. If the Museum becomes subject to claims or damages resulting from your work, you will be responsible for them.
+
+Can I use the Philadelphia Museum of Art’s name with future uses of the code and other product we develop?
+
+If you present your work product away from the Museum, you should describe it as “developed at the Power of Art Hackathon hosted by the Philadelphia Museum of Art” but you agree not to use the Museum’s name in any other context or format.
 
 
-The Philadelphia Museum of Art is committed to making its collection data available for public access. Whilst we have a web interface for searching the collection, we are now also making our dataset of works in the public domain available for free public download. 
 
-#Examples
-Here are some examples of PMA data usage around the world.
-
-#Repository Contents
-
-#Data Structure
-
-#Resources that are available
-
-#Usage guidelines
-The Philadelphia Museum of Art (the "Museum") provides www.philamuseum.org and its subdomains (the "Websites") and any third-party hosted site which is supplied with content by the Museum, such as github.com/philamuseum in support of the Museum's mission. In brief, the Museum’s mission is to preserve, enhance, interpret, and extend the reach of its great collections in particular, and the visual arts in general. By accessing the Websites and any third-party hosted site which is supplied with content by the Museum, such as github.com/philamuseum, users agree to be bound by the following terms and conditions, which the Museum may revise from time to time. Users are encouraged to visit this page periodically to review current terms and conditions.
-
-WEBSITE CONTENT IS PROTECTED BY LAW. The data, images, software, documentation, text, video, audio, and other information on the Websites (the "Materials") are proprietary to the Museum or its licensors or other third parties. The Museum retains all its rights, including copyright, in the Materials. Copyright and other proprietary rights may be held by individuals or entities other than, or in addition to, the Museum. Any unauthorized use of the Materials or the Trademarks (defined below), except as permitted by these terms and conditions, is strictly prohibited.
-PERMITTED USE. The Materials are made available for non-commercial, educational and personal use only or for "fair use" under the United States copyright laws. Users may download files for personal use, subject to any additional terms or restrictions applicable to the individual Materials. Users must properly cite the source of the Materials and the citations should include a link to www.philamuseum.org. By downloading, printing, or using Materials from the Websites, whether accessed directly or indirectly, users agree that they will limit their use to the uses permitted by these terms and conditions or by fair use, and will not violate the Museum’s or any other party's proprietary rights. Users may not remove any copyright, trademark, or other proprietary notices and may not modify the Materials. Downloading, copying, distributing, or otherwise using Materials for any commercial purpose is strictly prohibited.
-NO WARRANTIES. The Museum does not warrant or represent that use of Materials displayed on the Website will not infringe the rights of third parties. ALL MATERIALS ON THE WEBSITES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY , FITNESS FOR PARTICULAR PURPOSE, COPYRIGHT OWNERSHIP AND NON-INFRINGEMENT. The Museum will not be liable for any damages to or viruses that may infect a user’s computer or other device resulting from use of any Websites or from downloading any Materials. At its discretion, the Museum may discontinue or take down all or any part of the Websites or remove any Material at any time.
-LICENSING. Anyone wishing to use any Materials for other than a permitted use must receive prior permission. To obtain permission (a license), please contact:
-
-
-The Philadelphia Museum of Art
-Library and Archives
-Tel: 215-684-7650
-E-mail: library@philamuseum.org
-
-
-DIGITAL MILLENNIUM COPYRIGHT ACT ("DMCA"). The Museum is committed to complying with U.S. copyright and related laws, and requires all users of the Websites to comply with these laws. Owners of copyrighted works who believe that their rights under U.S. copyright law have been infringed should report their concern by providing notice to the Museum’s Designated Agent pursuant to DMCA. If notice is provided by email, please send the notice to: library@philamuseum.org. If notice is provided by mail, please send the notice to: Designated Copyright Agent, c/o General Counsel, Philadelphia Museum of Art, P.O. Box 7646, Philadelphia, PA 19101-7646.
-TRADEMARKS. Many of the trademarks, service marks and logos ("Trademarks") displayed on the Websites, including PHILADELPHIA MUSEUM OF ART, RODIN MUSEUM and PMA, are marks of the Philadelphia Museum of Art which are registered or otherwise protected by law. The Trademarks of third parties may also be displayed on the Websites. Nothing contained in the Websites should be construed as granting any license or right to use any Trademark without written permission of the Museum or third party that may own the Trademark.
-
-##Give attribution to the Philadelphia Museum of Art
-Make sure that others are aware of the rights status of the Philadelphia Museum of Art and are aware of these guidelines by keeping intact links.
-If for technical or other reasons you cannot include all the links to all sources of the Metadata and rights information directly with the Metadata, you should consider including them separately, for example in a separate document that is distributed with the Metadata or dataset.
-If for technical or other reasons you cannot include all the links to all sources of the Metadata and rights information, you may consider linking only to the Metadata source on the Philadelphia Museum of Art’s website, where all available sources and rights information can be found, including in machine readable formats.
-##Metadata is dynamic
-When working with Metadata obtained from the Philadelphia Museum of Art, please be aware that this Metadata is not static. It sometimes changes daily. The Philadelphia Museum of Art continuously updates its Metadata in order to correct mistakes and include new and additional information. Museum collections are under constant study and research, and new information is frequently added to objects in the collection.
-##Pull requests
-Because these datasets are generated from our internal database, we do not accept pull requests. If you have identified errors or have extra information to share, please email us at Laura.Webb@philamuseum.org and we will forward to the appropriate department for review.
-
-##No endorsement
-Use of this dataset does not grant or imply PMA’s  approval, commission, or support of your work. PMA retains the rights to all of its trademarks, and they are not part of the dataset.  Ensure that you do not use the Metadata in a way that suggests any official status or that the Philadelphia Museum of Art endorses you or your use of the Metadata, unless you have prior permission to do so. If you transform or modify to the dataset, you must clearly distinguish the resulting work as having been modified from the PMA dataset. If you create a derivative dataset from the PMA dataset, we ask that you consider releasing the derivative under a CC0 license.
-
-##Ensure that you do not mislead others or misrepresent the Metadata or its sources
-Ensure that your use of the Metadata does not breach any national legislation based thereon, notably concerning (but not limited to) data protection, defamation or copyright. Please note that you use the Metadata at your own risk. The Philadelphia Museum of Art offers the Metadata as-is and makes no representations or warranties of any kind concerning any Metadata published by the Philadelphia Museum of Art.
-##The writers of these guidelines are deeply indebted to the Tate, MoMA, Smithsonian Cooper-Hewitt, National Design Museum; and Europeana.
-
-
-# Power of Art Hackathon
+# 2017 Power of Art Hackathon 2.0
 
 ## Data
 
@@ -63,7 +142,6 @@ Ensure that your use of the Metadata does not breach any national legislation ba
 - iBeacon & Gallery Location Specifications
 - iBeacon Maps for all public floors
 - iBeacon Naming Schema
-- pmaToolkit Specification
 - IP Policy
 - Code of Conduct
 
