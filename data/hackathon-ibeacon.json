@@ -1,0 +1,1606 @@
+{
+    "devices": [
+        {
+            "alias": "LFH_R",
+            "major": 46453,
+            "minor": 61315,
+            "uniqueId": "OlDU"
+        },
+        {
+            "alias": "GSH_1_T_R",
+            "major": 54733,
+            "minor": 24192,
+            "uniqueId": "x0lw"
+        },
+        {
+            "alias": "GSH_1_M_R",
+            "major": 53827,
+            "minor": 19489,
+            "uniqueId": "et3h"
+        },
+        {
+            "alias": "LFH_G_stairs",
+            "major": 5503,
+            "minor": 59926,
+            "uniqueId": "qMyb"
+        },
+        {
+            "alias": "GSH_1_stairs",
+            "major": 40064,
+            "minor": 20695,
+            "uniqueId": "bHGS"
+        },
+        {
+            "alias": "150",
+            "major": 41936,
+            "minor": 18797,
+            "uniqueId": "SWiM"
+        },
+        {
+            "alias": "153_L",
+            "major": 63736,
+            "minor": 593,
+            "uniqueId": "q2zU"
+        },
+        {
+            "alias": "153_R",
+            "major": 23531,
+            "minor": 25040,
+            "uniqueId": "i5Uc"
+        },
+        {
+            "alias": "155_L",
+            "major": 10160,
+            "minor": 17019,
+            "uniqueId": "4oi0"
+        },
+        {
+            "alias": "155_R",
+            "major": 51621,
+            "minor": 20560,
+            "uniqueId": "07hg"
+        },
+        {
+            "alias": "156",
+            "major": 22686,
+            "minor": 4529,
+            "uniqueId": "nTTS"
+        },
+        {
+            "alias": "160",
+            "major": 36761,
+            "minor": 6129,
+            "uniqueId": "eJnQ"
+        },
+        {
+            "alias": "161_L",
+            "major": 6727,
+            "minor": 55933,
+            "uniqueId": "Xate"
+        },
+        {
+            "alias": "161_B",
+            "major": 3977,
+            "minor": 10524,
+            "uniqueId": "hyHS"
+        },
+        {
+            "alias": "165a",
+            "major": 6977,
+            "minor": 11631,
+            "uniqueId": "M2P9"
+        },
+        {
+            "alias": "166",
+            "major": 30283,
+            "minor": 22351,
+            "uniqueId": "GA2N"
+        },
+        {
+            "alias": "172_T",
+            "major": 45381,
+            "minor": 11968,
+            "uniqueId": "0KNh"
+        },
+        {
+            "alias": "172_M",
+            "major": 53207,
+            "minor": 25441,
+            "uniqueId": "AqYY"
+        },
+        {
+            "alias": "172_B",
+            "major": 11401,
+            "minor": 38471,
+            "uniqueId": "wBmY"
+        },
+        {
+            "alias": "173",
+            "major": 20381,
+            "minor": 10152,
+            "uniqueId": "WV25"
+        },
+        {
+            "alias": "174_T",
+            "major": 45895,
+            "minor": 14975,
+            "uniqueId": "LIUV"
+        },
+        {
+            "alias": "178",
+            "major": 16005,
+            "minor": 28774,
+            "uniqueId": "WYIB"
+        },
+        {
+            "alias": "174_B",
+            "major": 19991,
+            "minor": 6934,
+            "uniqueId": "CQOz"
+        },
+        {
+            "alias": "290b_1",
+            "major": 61211,
+            "minor": 30460,
+            "uniqueId": "cT9I"
+        },
+        {
+            "alias": "180_L",
+            "major": 49483,
+            "minor": 60425,
+            "uniqueId": "3Elx"
+        },
+        {
+            "alias": "180_R",
+            "major": 19178,
+            "minor": 62094,
+            "uniqueId": "3pDH"
+        },
+        {
+            "alias": "185_T",
+            "major": 27039,
+            "minor": 31683,
+            "uniqueId": "hba6"
+        },
+        {
+            "alias": "182_T_L",
+            "major": 55858,
+            "minor": 13117,
+            "uniqueId": "q46U"
+        },
+        {
+            "alias": "188_B_R",
+            "major": 27781,
+            "minor": 55231,
+            "uniqueId": "BRiY"
+        },
+        {
+            "alias": "182_T_R",
+            "major": 42762,
+            "minor": 55435,
+            "uniqueId": "fZQh"
+        },
+        {
+            "alias": "GSH_2_1",
+            "major": 56504,
+            "minor": 1871,
+            "uniqueId": "sNi8"
+        },
+        {
+            "alias": "LFH_B_L-ticketing_desk",
+            "major": 26992,
+            "minor": 51268,
+            "uniqueId": "7kn3"
+        },
+        {
+            "alias": "182_B_R",
+            "major": 13383,
+            "minor": 26589,
+            "uniqueId": "mes4"
+        },
+        {
+            "alias": "GSH_2_3",
+            "major": 54943,
+            "minor": 24836,
+            "uniqueId": "zLBX"
+        },
+        {
+            "alias": "182_B_L",
+            "major": 31784,
+            "minor": 4976,
+            "uniqueId": "ab9Y"
+        },
+        {
+            "alias": "183",
+            "major": 28257,
+            "minor": 25091,
+            "uniqueId": "auTT"
+        },
+        {
+            "alias": "188_T_L",
+            "major": 33354,
+            "minor": 2363,
+            "uniqueId": "iZZl"
+        },
+        {
+            "alias": "entrance_east",
+            "major": 39331,
+            "minor": 16146,
+            "uniqueId": "OePm"
+        },
+        {
+            "alias": "entrance_west",
+            "major": 54543,
+            "minor": 38071,
+            "uniqueId": "RyQ4"
+        },
+        {
+            "alias": "184",
+            "major": 61613,
+            "minor": 8979,
+            "uniqueId": "iaPG"
+        },
+        {
+            "alias": "181_L",
+            "major": 21053,
+            "minor": 37446,
+            "uniqueId": "dHr1"
+        },
+        {
+            "alias": "181_R",
+            "major": 26924,
+            "minor": 21561,
+            "uniqueId": "2nYx"
+        },
+        {
+            "alias": "GSH_1_stairs_R",
+            "major": 63760,
+            "minor": 34159,
+            "uniqueId": "fI6o"
+        },
+        {
+            "alias": "GSH_1_stairs_L",
+            "major": 10893,
+            "minor": 19235,
+            "uniqueId": "SaDT"
+        },
+        {
+            "alias": "257",
+            "major": 46240,
+            "minor": 62214,
+            "uniqueId": "CfzZ"
+        },
+        {
+            "alias": "157_L",
+            "major": 12257,
+            "minor": 16232,
+            "uniqueId": "XPWC"
+        },
+        {
+            "alias": "223",
+            "major": 18854,
+            "minor": 54690,
+            "uniqueId": "1Nk6"
+        },
+        {
+            "alias": "48_B",
+            "major": 60491,
+            "minor": 21435,
+            "uniqueId": "bpqo"
+        },
+        {
+            "alias": "214",
+            "major": 18310,
+            "minor": 6691,
+            "uniqueId": "pjZ5"
+        },
+        {
+            "alias": "157_R",
+            "major": 20744,
+            "minor": 42967,
+            "uniqueId": "bHUO"
+        },
+        {
+            "alias": "225",
+            "major": 32526,
+            "minor": 62404,
+            "uniqueId": "wdlF"
+        },
+        {
+            "alias": "227",
+            "major": 36197,
+            "minor": 4670,
+            "uniqueId": "Wjv7"
+        },
+        {
+            "alias": "206_T",
+            "major": 31736,
+            "minor": 46837,
+            "uniqueId": "EDtk"
+        },
+        {
+            "alias": "228",
+            "major": 28612,
+            "minor": 32807,
+            "uniqueId": "awZC"
+        },
+        {
+            "alias": "224_T",
+            "major": 225,
+            "minor": 22471,
+            "uniqueId": "9Dsv"
+        },
+        {
+            "alias": "229",
+            "major": 34993,
+            "minor": 27451,
+            "uniqueId": "voB2"
+        },
+        {
+            "alias": "244_T",
+            "major": 41867,
+            "minor": 11595,
+            "uniqueId": "J2ux"
+        },
+        {
+            "alias": "224_B",
+            "major": 31924,
+            "minor": 40846,
+            "uniqueId": "CGBf"
+        },
+        {
+            "alias": "244_C",
+            "major": 1432,
+            "minor": 42679,
+            "uniqueId": "QPe5"
+        },
+        {
+            "alias": "231_T",
+            "major": 64459,
+            "minor": 30151,
+            "uniqueId": "OQGE"
+        },
+        {
+            "alias": "254",
+            "major": 12253,
+            "minor": 33525,
+            "uniqueId": "qesm"
+        },
+        {
+            "alias": "161_T",
+            "major": 9943,
+            "minor": 704,
+            "uniqueId": "ljxN"
+        },
+        {
+            "alias": "LFH_C",
+            "major": 6853,
+            "minor": 28070,
+            "uniqueId": "elsp"
+        },
+        {
+            "alias": "226_T",
+            "major": 49438,
+            "minor": 19110,
+            "uniqueId": "rRXL"
+        },
+        {
+            "alias": "237",
+            "major": 3348,
+            "minor": 14630,
+            "uniqueId": "YfcJ"
+        },
+        {
+            "alias": "238",
+            "major": 62411,
+            "minor": 3554,
+            "uniqueId": "2EoW"
+        },
+        {
+            "alias": "242_T",
+            "major": 17773,
+            "minor": 7577,
+            "uniqueId": "zeTD"
+        },
+        {
+            "alias": "242_B",
+            "major": 24019,
+            "minor": 56772,
+            "uniqueId": "IuNP"
+        },
+        {
+            "alias": "243",
+            "major": 27267,
+            "minor": 31431,
+            "uniqueId": "B3Qs"
+        },
+        {
+            "alias": "244_M_R",
+            "major": 6071,
+            "minor": 33173,
+            "uniqueId": "Z31K"
+        },
+        {
+            "alias": "235",
+            "major": 636,
+            "minor": 46486,
+            "uniqueId": "EB04"
+        },
+        {
+            "alias": "233a",
+            "major": 8530,
+            "minor": 39820,
+            "uniqueId": "jDSD"
+        },
+        {
+            "alias": "241",
+            "major": 15360,
+            "minor": 43243,
+            "uniqueId": "GTLm"
+        },
+        {
+            "alias": "240",
+            "major": 38513,
+            "minor": 39341,
+            "uniqueId": "1hK6"
+        },
+        {
+            "alias": "240a",
+            "major": 53659,
+            "minor": 2632,
+            "uniqueId": "mWHB"
+        },
+        {
+            "alias": "244_B_L",
+            "major": 60545,
+            "minor": 4457,
+            "uniqueId": "vQg2"
+        },
+        {
+            "alias": "244_T_R",
+            "major": 23620,
+            "minor": 27393,
+            "uniqueId": "OWI3"
+        },
+        {
+            "alias": "244_B_R",
+            "major": 24709,
+            "minor": 40705,
+            "uniqueId": "nFEG"
+        },
+        {
+            "alias": "hallway_education_end",
+            "major": 28394,
+            "minor": 19082,
+            "uniqueId": "0lf0"
+        },
+        {
+            "alias": "hallway_education_B",
+            "major": 48115,
+            "minor": 5644,
+            "uniqueId": "j4uK"
+        },
+        {
+            "alias": "246",
+            "major": 35379,
+            "minor": 31061,
+            "uniqueId": "6BTF"
+        },
+        {
+            "alias": "GSH_1_B_L-ticketing_desk",
+            "major": 50349,
+            "minor": 57260,
+            "uniqueId": "G48N"
+        },
+        {
+            "alias": "259",
+            "major": 34115,
+            "minor": 23913,
+            "uniqueId": "jtfA"
+        },
+        {
+            "alias": "108",
+            "major": 15557,
+            "minor": 41054,
+            "uniqueId": "RdHp"
+        },
+        {
+            "alias": "187",
+            "major": 16934,
+            "minor": 49722,
+            "uniqueId": "bK88"
+        },
+        {
+            "alias": "GSH_1_B_L",
+            "major": 32520,
+            "minor": 64792,
+            "uniqueId": "dD3M"
+        },
+        {
+            "alias": "230",
+            "major": 12718,
+            "minor": 20262,
+            "uniqueId": "0lNA"
+        },
+        {
+            "alias": "GSH_2_stairs",
+            "major": 32390,
+            "minor": 24999,
+            "uniqueId": "vLxU"
+        },
+        {
+            "alias": "GSH_1_B_R",
+            "major": 32396,
+            "minor": 200,
+            "uniqueId": "yLQ6"
+        },
+        {
+            "alias": "186",
+            "major": 36427,
+            "minor": 50690,
+            "uniqueId": "stBI"
+        },
+        {
+            "alias": "232",
+            "major": 42932,
+            "minor": 44925,
+            "uniqueId": "EE7c"
+        },
+        {
+            "alias": "222b_2",
+            "major": 10581,
+            "minor": 31288,
+            "uniqueId": "LSzr"
+        },
+        {
+            "alias": "200_R",
+            "major": 42181,
+            "minor": 22136,
+            "uniqueId": "7w6Z"
+        },
+        {
+            "alias": "222",
+            "major": 28409,
+            "minor": 51764,
+            "uniqueId": "oYkn"
+        },
+        {
+            "alias": "200_L",
+            "major": 40413,
+            "minor": 9952,
+            "uniqueId": "RwTT"
+        },
+        {
+            "alias": "236",
+            "major": 20500,
+            "minor": 52950,
+            "uniqueId": "W0x5"
+        },
+        {
+            "alias": "231_B",
+            "major": 32453,
+            "minor": 12257,
+            "uniqueId": "qJz9"
+        },
+        {
+            "alias": "201_L",
+            "major": 1284,
+            "minor": 27820,
+            "uniqueId": "zktT"
+        },
+        {
+            "alias": "234_B",
+            "major": 18030,
+            "minor": 33158,
+            "uniqueId": "TT6F"
+        },
+        {
+            "alias": "234_T",
+            "major": 6267,
+            "minor": 50789,
+            "uniqueId": "eyK8"
+        },
+        {
+            "alias": "244_T_L",
+            "major": 19041,
+            "minor": 9538,
+            "uniqueId": "eiso"
+        },
+        {
+            "alias": "201_R",
+            "major": 5062,
+            "minor": 30597,
+            "uniqueId": "pWTq"
+        },
+        {
+            "alias": "208",
+            "major": 4110,
+            "minor": 32956,
+            "uniqueId": "c6Su"
+        },
+        {
+            "alias": "239_T",
+            "major": 14399,
+            "minor": 38616,
+            "uniqueId": "X0Om"
+        },
+        {
+            "alias": "239_B",
+            "major": 42321,
+            "minor": 44871,
+            "uniqueId": "dyvu"
+        },
+        {
+            "alias": "coat_L",
+            "major": 40294,
+            "minor": 29259,
+            "uniqueId": "0GI3"
+        },
+        {
+            "alias": "260",
+            "major": 34228,
+            "minor": 40121,
+            "uniqueId": "KxHj"
+        },
+        {
+            "alias": "263",
+            "major": 41044,
+            "minor": 45746,
+            "uniqueId": "cNip"
+        },
+        {
+            "alias": "262",
+            "major": 53774,
+            "minor": 45232,
+            "uniqueId": "beba"
+        },
+        {
+            "alias": "LFH_L",
+            "major": 4707,
+            "minor": 5901,
+            "uniqueId": "9Bl1"
+        },
+        {
+            "alias": "entrance_west",
+            "major": 23894,
+            "minor": 14649,
+            "uniqueId": "gZVC"
+        },
+        {
+            "alias": "261",
+            "major": 32336,
+            "minor": 55322,
+            "uniqueId": "DjOa"
+        },
+        {
+            "alias": "49_T",
+            "major": 304,
+            "minor": 20049,
+            "uniqueId": "4BFi"
+        },
+        {
+            "alias": "LFH_hallway_R",
+            "major": 15633,
+            "minor": 9703,
+            "uniqueId": "B3IQ"
+        },
+        {
+            "alias": "coat_R",
+            "major": 37062,
+            "minor": 1732,
+            "uniqueId": "SEg6"
+        },
+        {
+            "alias": "LFH_hallway_L",
+            "major": 10981,
+            "minor": 27033,
+            "uniqueId": "FxST"
+        },
+        {
+            "alias": "216",
+            "major": 8350,
+            "minor": 23070,
+            "uniqueId": "SyET"
+        },
+        {
+            "alias": "49_M",
+            "major": 14958,
+            "minor": 9310,
+            "uniqueId": "i1Hu"
+        },
+        {
+            "alias": "HBG_L",
+            "major": 64809,
+            "minor": 21762,
+            "uniqueId": "Rs9r"
+        },
+        {
+            "alias": "store_main",
+            "major": 28338,
+            "minor": 41653,
+            "uniqueId": "PLND"
+        },
+        {
+            "alias": "215",
+            "major": 44267,
+            "minor": 37867,
+            "uniqueId": "Myse"
+        },
+        {
+            "alias": "hallway_48_L",
+            "major": 58161,
+            "minor": 43577,
+            "uniqueId": "9oPc"
+        },
+        {
+            "alias": "hallway_48_C",
+            "major": 27092,
+            "minor": 28875,
+            "uniqueId": "oiXX"
+        },
+        {
+            "alias": "hallway_48_R",
+            "major": 58875,
+            "minor": 43787,
+            "uniqueId": "3Gri"
+        },
+        {
+            "alias": "48_T",
+            "major": 36685,
+            "minor": 21184,
+            "uniqueId": "L6bv"
+        },
+        {
+            "alias": "48_M",
+            "major": 50127,
+            "minor": 64189,
+            "uniqueId": "E3xB"
+        },
+        {
+            "alias": "granite_hill",
+            "major": 28726,
+            "minor": 49018,
+            "uniqueId": "13YG"
+        },
+        {
+            "alias": "49_B",
+            "major": 49667,
+            "minor": 55829,
+            "uniqueId": "ODfL"
+        },
+        {
+            "alias": "HBG_R",
+            "major": 54881,
+            "minor": 6422,
+            "uniqueId": "pLmv"
+        },
+        {
+            "alias": "hallway_education_M",
+            "major": 1851,
+            "minor": 59763,
+            "uniqueId": "Icq7"
+        },
+        {
+            "alias": "hallway_education_T",
+            "major": 32600,
+            "minor": 43215,
+            "uniqueId": "neIJ"
+        },
+        {
+            "alias": "bath_hallway_education_T",
+            "major": 58819,
+            "minor": 14157,
+            "uniqueId": "0COc"
+        },
+        {
+            "alias": "219",
+            "major": 44050,
+            "minor": 42534,
+            "uniqueId": "8WDe"
+        },
+        {
+            "alias": "213a",
+            "major": 8917,
+            "minor": 37737,
+            "uniqueId": "iMbI"
+        },
+        {
+            "alias": "elevator_education",
+            "major": 13220,
+            "minor": 54497,
+            "uniqueId": "7jCG"
+        },
+        {
+            "alias": "220",
+            "major": 5280,
+            "minor": 51390,
+            "uniqueId": "g6dK"
+        },
+        {
+            "alias": "222b_G",
+            "major": 26167,
+            "minor": 54507,
+            "uniqueId": "s8yc"
+        },
+        {
+            "alias": "206_B",
+            "major": 2057,
+            "minor": 54286,
+            "uniqueId": "yqAL"
+        },
+        {
+            "alias": "217",
+            "major": 47241,
+            "minor": 26466,
+            "uniqueId": "xTpk"
+        },
+        {
+            "alias": "203",
+            "major": 17245,
+            "minor": 22491,
+            "uniqueId": "STnB"
+        },
+        {
+            "alias": "bath_275",
+            "major": 57478,
+            "minor": 33767,
+            "uniqueId": "tuPl"
+        },
+        {
+            "alias": "276b_2",
+            "major": 61494,
+            "minor": 53892,
+            "uniqueId": "Uzde"
+        },
+        {
+            "alias": "261",
+            "major": 7931,
+            "minor": 28423,
+            "uniqueId": "eeAw"
+        },
+        {
+            "alias": "202",
+            "major": 58688,
+            "minor": 10931,
+            "uniqueId": "OCMa"
+        },
+        {
+            "alias": "233",
+            "major": 63721,
+            "minor": 41687,
+            "uniqueId": "DRdK"
+        },
+        {
+            "alias": "store_special",
+            "major": 36619,
+            "minor": 21871,
+            "uniqueId": "sdk1"
+        },
+        {
+            "alias": "168",
+            "major": 57211,
+            "minor": 3214,
+            "uniqueId": "w1Mi"
+        },
+        {
+            "alias": "162_R",
+            "major": 49334,
+            "minor": 32753,
+            "uniqueId": "9a4W"
+        },
+        {
+            "alias": "118_B",
+            "major": 46090,
+            "minor": 39180,
+            "uniqueId": "2gQY"
+        },
+        {
+            "alias": "161_R",
+            "major": 38400,
+            "minor": 63816,
+            "uniqueId": "E2Or"
+        },
+        {
+            "alias": "152_L",
+            "major": 18227,
+            "minor": 2502,
+            "uniqueId": "up5U"
+        },
+        {
+            "alias": "101",
+            "major": 2929,
+            "minor": 1942,
+            "uniqueId": "ozHU"
+        },
+        {
+            "alias": "GSH_1_T_L",
+            "major": 31633,
+            "minor": 60320,
+            "uniqueId": "m4Ps"
+        },
+        {
+            "alias": "GSH_1_M_L",
+            "major": 54927,
+            "minor": 26313,
+            "uniqueId": "5l9O"
+        },
+        {
+            "alias": "store_balcony",
+            "major": 59018,
+            "minor": 33449,
+            "uniqueId": "W45O"
+        },
+        {
+            "alias": "209",
+            "major": 59249,
+            "minor": 18705,
+            "uniqueId": "2ZPP"
+        },
+        {
+            "alias": "207",
+            "major": 485,
+            "minor": 45103,
+            "uniqueId": "8wSK"
+        },
+        {
+            "alias": "213",
+            "major": 19962,
+            "minor": 34996,
+            "uniqueId": "JFm4"
+        },
+        {
+            "alias": "210",
+            "major": 60798,
+            "minor": 33306,
+            "uniqueId": "2Ps9"
+        },
+        {
+            "alias": "263",
+            "major": 45310,
+            "minor": 15479,
+            "uniqueId": "73tF"
+        },
+        {
+            "alias": "211",
+            "major": 60085,
+            "minor": 38310,
+            "uniqueId": "haKt"
+        },
+        {
+            "alias": "221",
+            "major": 21345,
+            "minor": 63461,
+            "uniqueId": "quhr"
+        },
+        {
+            "alias": "218",
+            "major": 7659,
+            "minor": 48980,
+            "uniqueId": "sl4T"
+        },
+        {
+            "alias": "102_T",
+            "major": 46431,
+            "minor": 58402,
+            "uniqueId": "aypO"
+        },
+        {
+            "alias": "204_B",
+            "major": 46846,
+            "minor": 12914,
+            "uniqueId": "8ZRR"
+        },
+        {
+            "alias": "212",
+            "major": 1963,
+            "minor": 54246,
+            "uniqueId": "PPA7"
+        },
+        {
+            "alias": "204_T",
+            "major": 52030,
+            "minor": 55210,
+            "uniqueId": "thNY"
+        },
+        {
+            "alias": "GSH_1_B_L",
+            "major": 46646,
+            "minor": 55409,
+            "uniqueId": "FYWw"
+        },
+        {
+            "alias": "204_M_L",
+            "major": 36374,
+            "minor": 60547,
+            "uniqueId": "sfNA"
+        },
+        {
+            "alias": "204_M_R",
+            "major": 59531,
+            "minor": 20899,
+            "uniqueId": "mTS0"
+        },
+        {
+            "alias": "205",
+            "major": 34379,
+            "minor": 55261,
+            "uniqueId": "wDSW"
+        },
+        {
+            "alias": "GSH_2_B_R",
+            "major": 24978,
+            "minor": 9505,
+            "uniqueId": "A5cB"
+        },
+        {
+            "alias": "GSH_2_T_R",
+            "major": 64572,
+            "minor": 43700,
+            "uniqueId": "qigv"
+        },
+        {
+            "alias": "GSH_2_B_L",
+            "major": 52372,
+            "minor": 11765,
+            "uniqueId": "SrQS"
+        },
+        {
+            "alias": "GSH_2_M_R",
+            "major": 26667,
+            "minor": 11448,
+            "uniqueId": "ZIKj"
+        },
+        {
+            "alias": "GSH_2_M_L",
+            "major": 41037,
+            "minor": 28257,
+            "uniqueId": "x89r"
+        },
+        {
+            "alias": "GSH_2_T_L",
+            "major": 36536,
+            "minor": 46812,
+            "uniqueId": "FMu5"
+        },
+        {
+            "alias": "GSH_1_B_R",
+            "major": 52122,
+            "minor": 17155,
+            "uniqueId": "1sYH"
+        },
+        {
+            "alias": "cafe_balcony",
+            "major": 6393,
+            "minor": 48118,
+            "uniqueId": "fpJj"
+        },
+        {
+            "alias": "176_B",
+            "major": 63512,
+            "minor": 9147,
+            "uniqueId": "N2Qv"
+        },
+        {
+            "alias": "290b_2",
+            "major": 45113,
+            "minor": 2519,
+            "uniqueId": "VAfN"
+        },
+        {
+            "alias": "GSH_2_stairs",
+            "major": 63212,
+            "minor": 57726,
+            "uniqueId": "ZbPa"
+        },
+        {
+            "alias": "222b_1",
+            "major": 10072,
+            "minor": 42538,
+            "uniqueId": "XQgo"
+        },
+        {
+            "alias": "276b_1",
+            "major": 2970,
+            "minor": 40461,
+            "uniqueId": "aiiL"
+        },
+        {
+            "alias": "256",
+            "major": 22276,
+            "minor": 2430,
+            "uniqueId": "mz6u"
+        },
+        {
+            "alias": "116_B",
+            "major": 9118,
+            "minor": 45390,
+            "uniqueId": "PG3C"
+        },
+        {
+            "alias": "162_L",
+            "major": 61406,
+            "minor": 54215,
+            "uniqueId": "6Lfw"
+        },
+        {
+            "alias": "177",
+            "major": 26246,
+            "minor": 39764,
+            "uniqueId": "wEup"
+        },
+        {
+            "alias": "119_B",
+            "major": 15702,
+            "minor": 53036,
+            "uniqueId": "nabY"
+        },
+        {
+            "alias": "159",
+            "major": 28148,
+            "minor": 31688,
+            "uniqueId": "HM9T"
+        },
+        {
+            "alias": "104_T",
+            "major": 59237,
+            "minor": 64595,
+            "uniqueId": "loUj"
+        },
+        {
+            "alias": "176_T",
+            "major": 662,
+            "minor": 3000,
+            "uniqueId": "R9sP"
+        },
+        {
+            "alias": "119_T",
+            "major": 59725,
+            "minor": 4178,
+            "uniqueId": "Lzlf"
+        },
+        {
+            "alias": "165_R",
+            "major": 18067,
+            "minor": 4962,
+            "uniqueId": "I4Z8"
+        },
+        {
+            "alias": "123",
+            "major": 37400,
+            "minor": 9241,
+            "uniqueId": "sRCP"
+        },
+        {
+            "alias": "164_B",
+            "major": 65120,
+            "minor": 64705,
+            "uniqueId": "gdtK"
+        },
+        {
+            "alias": "163",
+            "major": 5411,
+            "minor": 12260,
+            "uniqueId": "lOJX"
+        },
+        {
+            "alias": "102_B",
+            "major": 6559,
+            "minor": 5444,
+            "uniqueId": "cztk"
+        },
+        {
+            "alias": "151",
+            "major": 41673,
+            "minor": 56954,
+            "uniqueId": "dscQ"
+        },
+        {
+            "alias": "116_T",
+            "major": 31078,
+            "minor": 60028,
+            "uniqueId": "GstF"
+        },
+        {
+            "alias": "120_R",
+            "major": 52040,
+            "minor": 39867,
+            "uniqueId": "oWmF"
+        },
+        {
+            "alias": "171",
+            "major": 42675,
+            "minor": 45688,
+            "uniqueId": "Vy8l"
+        },
+        {
+            "alias": "120_L",
+            "major": 22082,
+            "minor": 49544,
+            "uniqueId": "1D2W"
+        },
+        {
+            "alias": "170",
+            "major": 7806,
+            "minor": 36074,
+            "uniqueId": "pZWh"
+        },
+        {
+            "alias": "179",
+            "major": 62041,
+            "minor": 10472,
+            "uniqueId": "qIIO"
+        },
+        {
+            "alias": "154",
+            "major": 43705,
+            "minor": 59459,
+            "uniqueId": "6b7Y"
+        },
+        {
+            "alias": "167a",
+            "major": 35486,
+            "minor": 28536,
+            "uniqueId": "XAqI"
+        },
+        {
+            "alias": "bath_159",
+            "major": 55020,
+            "minor": 36034,
+            "uniqueId": "a1Na"
+        },
+        {
+            "alias": "258_L",
+            "major": 22912,
+            "minor": 5583,
+            "uniqueId": "vWPe"
+        },
+        {
+            "alias": "100",
+            "major": 21064,
+            "minor": 33511,
+            "uniqueId": "OMtG"
+        },
+        {
+            "alias": "169_T",
+            "major": 10950,
+            "minor": 16389,
+            "uniqueId": "qhYl"
+        },
+        {
+            "alias": "118_T",
+            "major": 58765,
+            "minor": 32672,
+            "uniqueId": "D1W0"
+        },
+        {
+            "alias": "164_T",
+            "major": 39353,
+            "minor": 30744,
+            "uniqueId": "3EDe"
+        },
+        {
+            "alias": "152_R",
+            "major": 48037,
+            "minor": 64878,
+            "uniqueId": "nKTL"
+        },
+        {
+            "alias": "167",
+            "major": 401,
+            "minor": 5349,
+            "uniqueId": "0z03"
+        },
+        {
+            "alias": "158",
+            "major": 19706,
+            "minor": 7578,
+            "uniqueId": "Mv1S"
+        },
+        {
+            "alias": "103",
+            "major": 37692,
+            "minor": 17861,
+            "uniqueId": "Njr4"
+        },
+        {
+            "alias": "124",
+            "major": 41071,
+            "minor": 32565,
+            "uniqueId": "QJKG"
+        },
+        {
+            "alias": "165_L",
+            "major": 21678,
+            "minor": 63126,
+            "uniqueId": "2Aac"
+        },
+        {
+            "alias": "175",
+            "major": 23397,
+            "minor": 59380,
+            "uniqueId": "alSF"
+        },
+        {
+            "alias": "117",
+            "major": 33125,
+            "minor": 65341,
+            "uniqueId": "duEA"
+        },
+        {
+            "alias": "104_M",
+            "major": 16899,
+            "minor": 62283,
+            "uniqueId": "WxXt"
+        },
+        {
+            "alias": "169_B",
+            "major": 1733,
+            "minor": 22862,
+            "uniqueId": "mrax"
+        },
+        {
+            "alias": "121",
+            "major": 8883,
+            "minor": 8960,
+            "uniqueId": "wVEH"
+        },
+        {
+            "alias": "107_T",
+            "major": 463,
+            "minor": 18326,
+            "uniqueId": "jzju"
+        },
+        {
+            "alias": "115",
+            "major": 46543,
+            "minor": 63836,
+            "uniqueId": "p1Vi"
+        },
+        {
+            "alias": "113_T",
+            "major": 52445,
+            "minor": 1882,
+            "uniqueId": "bnnp"
+        },
+        {
+            "alias": "105",
+            "major": 6041,
+            "minor": 39427,
+            "uniqueId": "eKN9"
+        },
+        {
+            "alias": "258_R",
+            "major": 48453,
+            "minor": 19464,
+            "uniqueId": "hDrG"
+        },
+        {
+            "alias": "106",
+            "major": 52037,
+            "minor": 1060,
+            "uniqueId": "A6ar"
+        },
+        {
+            "alias": "104_B",
+            "major": 21346,
+            "minor": 27022,
+            "uniqueId": "vHqn"
+        },
+        {
+            "alias": "272",
+            "major": 55696,
+            "minor": 46763,
+            "uniqueId": "HmUs"
+        },
+        {
+            "alias": "250",
+            "major": 31307,
+            "minor": 29626,
+            "uniqueId": "8JJK"
+        },
+        {
+            "alias": "113_B",
+            "major": 12950,
+            "minor": 10658,
+            "uniqueId": "SnU7"
+        },
+        {
+            "alias": "265_R",
+            "major": 64439,
+            "minor": 43047,
+            "uniqueId": "uOIR"
+        },
+        {
+            "alias": "265_L",
+            "major": 41311,
+            "minor": 34533,
+            "uniqueId": "evDf"
+        },
+        {
+            "alias": "251",
+            "major": 26744,
+            "minor": 28360,
+            "uniqueId": "buJI"
+        },
+        {
+            "alias": "270",
+            "major": 36931,
+            "minor": 57030,
+            "uniqueId": "Esf8"
+        },
+        {
+            "alias": "264",
+            "major": 65375,
+            "minor": 47276,
+            "uniqueId": "JwhK"
+        },
+        {
+            "alias": "247_R",
+            "major": 11193,
+            "minor": 54795,
+            "uniqueId": "mSue"
+        },
+        {
+            "alias": "273",
+            "major": 3138,
+            "minor": 14253,
+            "uniqueId": "BHpU"
+        },
+        {
+            "alias": "107_B",
+            "major": 55295,
+            "minor": 48606,
+            "uniqueId": "AedS"
+        },
+        {
+            "alias": "bath_258_262",
+            "major": 23537,
+            "minor": 27965,
+            "uniqueId": "eEQX"
+        },
+        {
+            "alias": "275",
+            "major": 51968,
+            "minor": 32791,
+            "uniqueId": "nAW7"
+        },
+        {
+            "alias": "266",
+            "major": 4927,
+            "minor": 42228,
+            "uniqueId": "nHTv"
+        },
+        {
+            "alias": "274_R",
+            "major": 13596,
+            "minor": 13588,
+            "uniqueId": "Nu9Y"
+        },
+        {
+            "alias": "269",
+            "major": 57356,
+            "minor": 22831,
+            "uniqueId": "vOTp"
+        },
+        {
+            "alias": "245",
+            "major": 12957,
+            "minor": 800,
+            "uniqueId": "aQ4q"
+        },
+        {
+            "alias": "122",
+            "major": 55530,
+            "minor": 55907,
+            "uniqueId": "dqY2"
+        },
+        {
+            "alias": "267",
+            "major": 13278,
+            "minor": 12974,
+            "uniqueId": "vu2N"
+        },
+        {
+            "alias": "252",
+            "major": 9105,
+            "minor": 5971,
+            "uniqueId": "3gTO"
+        },
+        {
+            "alias": "247_L",
+            "major": 28928,
+            "minor": 60808,
+            "uniqueId": "Da9A"
+        },
+        {
+            "alias": "268",
+            "major": 10394,
+            "minor": 39057,
+            "uniqueId": "m1Qq"
+        },
+        {
+            "alias": "276",
+            "major": 43128,
+            "minor": 53229,
+            "uniqueId": "hkFo"
+        },
+        {
+            "alias": "114",
+            "major": 25973,
+            "minor": 59463,
+            "uniqueId": "xidW"
+        },
+        {
+            "alias": "255_L",
+            "major": 31926,
+            "minor": 18155,
+            "uniqueId": "pqig"
+        },
+        {
+            "alias": "276a",
+            "major": 31165,
+            "minor": 36661,
+            "uniqueId": "w80m"
+        },
+        {
+            "alias": "111_T",
+            "major": 47019,
+            "minor": 38242,
+            "uniqueId": "snM9"
+        },
+        {
+            "alias": "253",
+            "major": 32413,
+            "minor": 6370,
+            "uniqueId": "8jdS"
+        },
+        {
+            "alias": "271",
+            "major": 27831,
+            "minor": 45386,
+            "uniqueId": "vbsJ"
+        },
+        {
+            "alias": "bath_275",
+            "major": 46848,
+            "minor": 58121,
+            "uniqueId": "vyyN"
+        },
+        {
+            "alias": "274_L",
+            "major": 40962,
+            "minor": 3756,
+            "uniqueId": "qlNQ"
+        },
+        {
+            "alias": "248",
+            "major": 45025,
+            "minor": 41532,
+            "uniqueId": "LT80"
+        },
+        {
+            "alias": "110",
+            "major": 16584,
+            "minor": 8665,
+            "uniqueId": "boR3"
+        },
+        {
+            "alias": "109",
+            "major": 32060,
+            "minor": 40815,
+            "uniqueId": "NWB7"
+        },
+        {
+            "alias": "249",
+            "major": 61334,
+            "minor": 5217,
+            "uniqueId": "AlfY"
+        },
+        {
+            "alias": "255_R",
+            "major": 53764,
+            "minor": 15307,
+            "uniqueId": "Ponl"
+        }
+    ]
+}
