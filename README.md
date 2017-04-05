@@ -5,7 +5,7 @@ You must purchase a hackathon ticket from the Philadelphia Museum of Art's site,
 During Philly Tech Week, present your game to a panel of judges and a public audience for a chance to win the grand prize ($2,000 and Museum memberships for each team member), the People’s Choice award ($500), or both.
 
 CHALLENGE DETAILS
-Create a digital game inspired by the Museum. Teams can have up to six members. Bring a team or form one at the kickoff.
+Create a digital game inspired by the Museum. Teams can have up to six members. Bring a team or form one at the kickoff. We are using DevPost for submissions and participation: https://philamuseumhackathon.devpost.com/
 
 YOUR HACKATHON TICKET INCLUDES:
 Admission to the Hackathon 2.0 kickoff on April 5, Hacklabs on April 12 and 19, and final judging on May 3rd
