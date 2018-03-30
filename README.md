@@ -2,7 +2,7 @@
 ### April 4 to May 25
 
 #### Hackers, developers, and art enthusiasts go head-to-head to develop innovative gallery experiences in our third annual Hackathon. Bring your creativity, curiosity, and tech skills as you compete for cash prizes and Museum glory. Sign up solo or with a team. 
-You must purchase a hackathon entry here in order to be eligible to win. To submit a project on DevPost, you'll be asked for your Order Confirmation number on your Hackathon entry from the Philadelphia Museum of Art.
+You must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=hackathon in order to be eligible to win. To submit a project on DevPost, you'll be asked for your Order Confirmation number on your Hackathon entry from the Philadelphia Museum of Art.
 Present your game to a panel of judges and a public audience for a chance to win the grand prize ($2,000), the People’s Choice award ($500), or both.
 
 #### CHALLENGE DETAILS:
@@ -14,11 +14,11 @@ Many museum visitors wonder where to start their visit and how to find art they 
  - Acess to wayfinding technology in our galleries and public spaces
  - Collections data for works on view
  - Hacklabs, which include:
- - Space to brainstorm and create
- - Food and drinks
- - Staff and guests to help guide your vision
- - Tours with resident experts, including curators, Museum guides, and educators
- - Tutorials and feedback
+   - Space to brainstorm and create
+   - Food and drinks
+   - Staff and guests to help guide your vision
+   - Tours with resident experts, including curators, Museum guides, and educators
+   - Tutorials and feedback
 
 #### SCHEDULE OF EVENTS
 
@@ -43,11 +43,11 @@ This is the Dina Wind Power of Art Hackathon, sponsored by the Wind Foundation.
 #### ELIGIBILITY:
 
 Employees of the Philadelphia Museum of Art are not eligible.
-You must purchase a hackathon entry here in order to be eligible to win. To submit a project on DevPost, you will be asked for your Order Confirmation number on your Hackathon entry from the Philadelphia Museum of Art.
+You must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=hackathon in order to be eligible to win. To submit a project on DevPost, you will be asked for your Order Confirmation number on your Hackathon entry from the Philadelphia Museum of Art.
 
 #### REQUIREMENTS:
 
-1. Team members must purchase a hackathon entry here in order to be eligible to win. 
+1. Team members must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=hackathon in order to be eligible to win. 
 2. Teams must have two to six members. One person teams are not allowed. You may bring your team or form one at the kickoff.
 3. Register your team on DevPost by April 11.  
 4. Bring your own laptop. We’ll provide work tables at the Hacklabs.
@@ -61,10 +61,10 @@ We do ask for source code for the judges to review. While we encourage participa
 
 #### How to enter 
 
-Start by buying a Hackathon entry here.
-Register on DevPost, create a project, and add your teammates.
-Spend April with your team to build a game that wows the judges and the public. Museum staff will be available in person and online at specific times- further information will be shared with participants.
-Submit a write up of your project, along with screen shots and a 2 minute video demo to DevPost and submit a working demo app of your project on Github by 10PM EDT, May 9. 
+- Start by buying a Hackathon entry here: http://www.philamuseum.org/?keyword=hackathon.
+- Register on DevPost, create a project, and add your teammates.
+- Spend April with your team to build a game that wows the judges and the public. Museum staff will be available in person and online at specific times- further information will be shared with participants.
+- Submit a write up of your project, along with screen shots and a 2 minute video demo to DevPost and submit a working demo app of your project on Github by 10PM EDT, May 9. 
 
 
 May the best game win!
