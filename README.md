@@ -6,12 +6,13 @@ You must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=
 Present your game to a panel of judges and a public audience for a chance to win the grand prize ($2,000), the People’s Choice award ($500), or both.
 
 #### CHALLENGE DETAILS:
-Many museum visitors wonder where to start their visit and how to find art they like. Your challenge? Create a game or guide that offers them a fun personalized experience in our galleries. Find out more at our kickoff on April 4. Teams must have two to six members. Bring a team or form one at the kickoff.
+Many museum visitors wonder where to start their visit and how to find art they like. Your challenge? Create a game or guide that offers them a fun personalized experience in our galleries. Find out more at our kickoff on April 4. Teams must have two to six members. Bring a team or form one at the kickoff. You must be in the Philadelphia area to participate.
 
 #### YOUR REGISTRATION INCLUDES:
 
  - Museum membership for one year
- - Acess to wayfinding technology in our galleries and public spaces
+
+- Acess to wayfinding technology in our galleries and public spaces
  - Collections data for works on view
  - Hacklabs, which include:
    - Space to brainstorm and create
@@ -19,7 +20,7 @@ Many museum visitors wonder where to start their visit and how to find art they 
    - Staff and guests to help guide your vision
    - Tours with resident experts, including curators, Museum guides, and educators
    - Tutorials and feedback
-
+.
 #### SCHEDULE OF EVENTS
 
 HACKATHON KICKOFF
@@ -48,15 +49,16 @@ You must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=ha
 #### REQUIREMENTS:
 
 1. Team members must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=hackathon in order to be eligible to win. 
-2. Teams must have two to six members. One person teams are not allowed. You may bring your team or form one at the kickoff.
-3. Register your team on DevPost by April 11.  
-4. Bring your own laptop. We’ll provide work tables at the Hacklabs.
-5. Use the Museum dataset and wayfinding tools given at Kickoff, April 4.
-6. Due May 9, 10 p.m.: Submit a video (maximum 2 minutes) that demonstrates the app in use. Do not make a promotional-style sales pitch. Do include stills and/or video screen grab captures. Write a description of the app for DevPost and choose a main image to represent your project.
-7. Due May 9, 10 p.m.: Submit source code of your app to your GitHub account and send us a link to it.
-8. May 16, 6:00-8:00 p.m.: At least two team members must be present to represent you at Preliminary Judging. You will have 5 minutes to answer the judge's questions about your submission.
-9. May 25, 6:00-7:00 p.m.: Finalist teams must demonstrate their app in two different galleries for Final Judging.
-10. May 25, 6:00-7:00 p.m.: Runner Up teams can compete for the People's Choice Award by demonstrating their apps in the Great Stair Hall.
+2. You must be in the Philadelphia area to participate. There are several in-person events and attendance is an essential part of your participation.
+3. Teams must have two to six members. One person teams are not allowed. You may bring your team or form one at the kickoff.
+4. Register your team on DevPost by April 11.  
+5. Bring your own laptop. We’ll provide work tables at the Hacklabs.
+6. Use the Museum dataset and wayfinding tools given at Kickoff, April 4.
+7. Due May 9, 10 p.m.: Submit a video (maximum 2 minutes) that demonstrates the app in use. Do not make a promotional-style sales pitch. Do include stills and/or video screen grab captures. Write a description of the app for DevPost and choose a main image to represent your project.
+8. Due May 9, 10 p.m.: Submit source code of your app to your GitHub account and send us a link to it.
+9. May 16, 6:00-8:00 p.m.: At least two team members must be present to represent you at Preliminary Judging. You will have 5 minutes to answer the judge's questions about your submission.
+10. May 25, 6:00-7:00 p.m.: Finalist teams must demonstrate their app in two different galleries for Final Judging.
+11. May 25, 6:00-7:00 p.m.: Runner Up teams can compete for the People's Choice Award by demonstrating their apps in the Great Stair Hall.
 We do ask for source code for the judges to review. While we encourage participants to consider open source, it is not required- all files uploaded will only be seen by the judges and hackathon managers. We ask for source code for review, not ownership, as stated in the IP agreement, here. 
 
 #### How to enter 
