@@ -88,4 +88,4 @@ May the best game win!
 
 Collection images
 - Full Resolution (3.29Gb) https://s3.amazonaws.com/pma-hackathon/FullRes.zip
-- Thumbnails (~219Mb) https://s3.amazonaws.com/pma-hackathon/Thumbnails.zip
+- Thumbnails (219Mb) https://s3.amazonaws.com/pma-hackathon/Thumbnails.zip
