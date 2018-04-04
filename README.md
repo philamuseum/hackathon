@@ -75,12 +75,6 @@ May the best game win!
 
 # 2018 Power of Art Hackathon 3.0
 
-## Data
-
-- Collection Data (JSON & XLS)
-- iBeacon Data (JSON)
-- Gallery Location Data (JSON)
-
 ## Documentation
 
 - Data Dictionary
