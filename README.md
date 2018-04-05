@@ -6,7 +6,12 @@ You must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=
 Present your game to a panel of judges and a public audience for a chance to win the grand prize ($2,000), the People’s Choice award ($500), or both.
 
 #### CHALLENGE DETAILS:
-Many museum visitors wonder where to start their visit and how to find art they like. Your challenge? Create a game or guide that offers them a fun personalized experience in our galleries. Find out more at our kickoff on April 4. Teams must have two to six members. Bring a team or form one at the kickoff. You must be in the Philadelphia area to participate.
+The Problem:
+Typically, art museum visitors arrive wondering where to start, and how to find objects they like. Once they find an object they like, visitors want to understand it and find their connection to it.
+
+Your solution:
+Use the Museum’s Hackathon resources and gather crowd-contributed data to create a game or guide that leads visitors to discover objects in an entertaining and engaging way.  Your solution should grow with repeated use by employing techniques such as machine learning, recommendation systems, and/or crowd-sourcing.
+
 
 #### YOUR REGISTRATION INCLUDES:
 
