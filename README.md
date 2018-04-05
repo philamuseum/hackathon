@@ -53,7 +53,7 @@ You must purchase a hackathon entry here: http://www.philamuseum.org/?keyword=ha
 3. Teams must have two to six members. One person teams are not allowed. You may bring your team or form one at the kickoff.
 4. Register your team on DevPost by April 11.  
 5. Bring your own laptop. We’ll provide work tables at the Hacklabs.
-6. Use the Museum dataset and wayfinding tools given at Kickoff, April 4.
+6. Use the Museum dataset and wayfinding tools available here.  Access the Hackathon API: https://hackathon.philamuseum.org/auth/register. 
 7. Due May 9, 10 p.m.: Submit a video (maximum 2 minutes) that demonstrates the app in use. Do not make a promotional-style sales pitch. Do include stills and/or video screen grab captures. Write a description of the app for DevPost and choose a main image to represent your project.
 8. Due May 9, 10 p.m.: Submit source code of your app to your GitHub account and send us a link to it.
 9. May 16, 6:00-8:00 p.m.: At least two team members must be present to represent you at Preliminary Judging. You will have 5 minutes to answer the judge's questions about your submission.
