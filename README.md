@@ -78,11 +78,11 @@ May the best game win!
 ## Documentation
 
 - Data Dictionary
-- iBeacon & Gallery Location Specifications
-- iBeacon Maps for all public floors
-- iBeacon Naming Schema
-- IP Policy
 - Code of Conduct
+- Gallery List and Map
+- IP Policy
+- Filming and Photography Guidelines
+
 
 ## Media
 
