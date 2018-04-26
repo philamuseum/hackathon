@@ -1,0 +1,527 @@
+type_id,"stop_num","stop_title",parent_tour,stop_id
+1,"167","The History of Armor",1,1
+1,"166","The Kienbusch Collection",1,2
+2,"657","Carousel Pig",2,3
+1,"168-2","The Ten Commandments of Chivalry",1,4
+1,"168","Who Was a Knight?",1,5
+1,"169","Wearing Armor",1,6
+1,"170","Keeping Armor Clean",1,7
+1,"171","Heraldry",1,8
+1,"172","Corinthian Helmet",1,9
+1,"173","Scottish Sword",1,10
+1,"174","Visored Sallet",1,11
+1,"175","Breastplate, Fauld and Tassets",1,12
+1,"176","Field Armor",1,13
+1,"177","Polearms",1,14
+1,"178","Boy's Armor",1,15
+1,"179","Gestech Armor",1,16
+1,"180","Tournament Armor",1,17
+1,"181","Cuirass for a Large Man",1,18
+1,"182","Waistcoat Corselet for Shipboard Combat",1,19
+1,"183","Muzzles and Chanfrons",1,20
+1,"184","A Knight's Horse",1,21
+1,"185","Armor for Tournaments on Foot",1,22
+1,"186","Painted Rondache",1,23
+1,"187","Stained Glass Coats of Arms",1,24
+1,"188","Two-Handed Sword",1,25
+1,"189","Helmets",1,26
+1,"190","Cuirass and Gorget of Field Armor",1,27
+1,"191","Painted Targe",1,28
+1,"192","Brigandine",1,29
+1,"193","Pauldron",1,30
+1,"194","Ceremonial Buckler",1,31
+1,"195","Gauntlets",1,32
+1,"196","Armor Simulating Ottoman Armor",1,33
+1,"197","Alexandria Sword",1,34
+1,"198","Cup Hilted Rapiers",1,35
+1,"199","Crossbows",1,36
+1,"200","Hunting",1,37
+1,"204","Hungarian Mail Shirt",1,38
+1,"205","Pair of Flintock Pistols",1,39
+1,"206","Turban Helmet",1,40
+1,"207","Miniature Pistols",1,41
+1,"208","Kentucky Rifles",1,42
+2,"658","David Drake - Storage Jar",2,43
+2,"659","Rush - Tragedy and Comedy",2,44
+2,"660","Latrobe Furniture Suite",2,45
+2,"661","18th-Century Furniture",2,46
+2,"662","Copley - Boy with Squirrel",2,47
+2,"663","Colonial Silver",2,48
+2,"664","A Bed-Chair",2,49
+2,"665","Tall Case Clock",2,50
+2,"666","Peale - Staircase Group",2,51
+2,"667","Symbols of a New Nation",2,52
+2,"668","Dining Room Sideboard",2,53
+2,"669","African American Face Jugs",2,54
+2,"670","Wood-Burning Stove",2,55
+2,"671","Shaker Inventions - part 1",2,56
+2,"671-2","Shaker Inventions - part 2",2,57
+2,"671-3","Shaker Inventions - part 3",2,58
+2,"671-4","Shaker Inventions - part 4",2,59
+2,"672","Glass Pungents",2,60
+2,"673","Making Glass",2,61
+2,"674","Victorian chairs",2,62
+2,"675","Punch Bowl",2,63
+2,"676","Moran - Grand Canyon",2,64
+2,"677","Pennsylvania German Furniture - part 1",2,65
+2,"677-2","Pennsylvania German Furniture - part 2",2,66
+2,"677-3","Pennsylvania German Furniture - part 3",2,67
+2,"678","Pennsylvania German Show plates",2,68
+2,"679","Fish Decoys",2,69
+2,"680","Hicks - Noah's Arc",2,70
+2,"681","Raleigh - Chilly Observation",2,71
+2,"682","Church - Scene in the Andes",2,72
+2,"683","Hovenden - Breaking Home Ties",2,73
+2,"684","Homer - Lifeline",2,74
+2,"685","Tanner - Portrait of Mother",2,75
+2,"686","Harnett - Five-Dollar Bill",2,76
+2,"687","Herter Bedroom Suite",2,77
+2,"688","Cup and Saucer",2,78
+2,"689","Pippin - End of War",2,79
+2,"690","Garber - Orchard Window",2,80
+2,"691","Wyeth - Groundhog Day",2,81
+2,"692","Eakins - Concert Singer",2,82
+2,"693","Eakins - Old Fashioned Dress",2,83
+2,"694","Eakins - Between Rounds",2,84
+2,"695","Esherick - Fireplace",2,85
+2,"696","Catlett - Mother and Child",2,86
+3,"901","Chagall - Wheatfield on a Summer's Afternoon",3,88
+3,"902","David Drake - Storage Jar",3,89
+3,"903","Rush - Comedy and Tragedy",3,90
+3,"904","Copley - Portrait of the Mifflins",3,91
+3,"906","Esherick - Fireplace and Doorway",3,93
+3,"907","Peale - Staircase Group",3,94
+3,"908","Pennsylvania German Bird Tree",3,95
+3,"909","Eakins - Portrait of Leslie W. Miller",3,96
+3,"910","Furness - Desk and Chair",3,97
+3,"911","Ganesha Dancing",3,98
+3,"912","Cambodian Lord of Mercy",3,99
+3,"913","Chinese Dog Cage",3,100
+3,"914","Japanese Tea House and Garden",3,101
+3,"917","Van Eyck - St. Francis of Assisi",3,104
+3,"918","Great Stair Hall",3,105
+3,"919","Choir Screen and Altarpiece",3,106
+3,"920","Goltzius - Without Ceres and Bacchus",3,107
+3,"921","Rubens - Prometheus Bound",3,108
+3,"922","Pair of Porcelain Goats",3,109
+3,"923","Houdon - Benjamin Franklin",3,110
+3,"924","Lansdowne Room",3,111
+3,"925","Eye Miniatures",3,112
+3,"926","Sol LeWitt Ceiling",3,113
+3,"927","Duchamp Gallery",3,114
+3,"928","Brancusi Gallery",3,115
+3,"929","Dalí - Soft Construction",3,116
+3,"930","Leger - The City",3,117
+3,"931","Delaney - Portrait of James Baldwin",3,118
+3,"932","Cézanne - The Large Bathers",3,119
+3,"933","Van Gogh - Sunflowers",3,120
+3,"934","Charlemont - The Moorish Chief",3,121
+3,"938","Horse and Man Armors",3,448
+3,"936","Mary Cassatt - Alexander and Son",3,123
+4,"401","Picasso - Self Portrait",4,124
+4,"402","Kandinsky - Improvisation No. 29",4,125
+4,"403","Kupka - Disks of Newton",4,126
+4,"404","Giorgio de Chirico - The Soothsayer's Recompense",4,127
+4,"405","Duchamp - Villon Gallery",4,128
+4,"407","Duchamp - The Large Glass - part 1",4,129
+4,"407-2","Duchamp - The Large Glass - part 2",4,130
+4,"418","Picasso - Violin and Newspaper",4,512
+4,"409","Hartley - Painting No. 4 (Black Horse)",4,132
+4,"410","Mondrian",4,133
+4,"411","Miró - Horse, Pipe and Red Flower",4,134
+4,"412","El Lissitzky - Proun 2 (Construction)",4,135
+4,"413","Brancusi - Bird in Space - part 1",4,136
+4,"413-2","Brancusi - Bird in Space - part 2",4,137
+4,"414","Magritte - The Six Elements",4,138
+4,"415","Matisse - Woman in Blue",4,139
+4,"416","O'Keeffe - Red Hills and Bones",4,140
+4,"417","Pollock - Male and Female",4,141
+4,"419","Gorky - Dark Green Painting",4,142
+4,"421","Sam Francis - Red",4,143
+4,"422","Newman - Black Fire",4,144
+4,"423","Motherwell - Elegy to Spanish Republic",4,145
+4,"425","Johns - Painted Bronze",4,146
+4,"428","Broodthaers - Triumph of the Mussels",4,147
+4,"429","Hesse - Tori",4,148
+4,"430","Richter - Color Chart",4,149
+4,"431","Judd - Untitled 1974",4,150
+4,"434","Kiefer - Nigredo",4,151
+4,"435","Warhol - Self Portrait",4,152
+4,"436","Polke - Gingko",4,153
+4,"438","Franz West - Delivery",4,154
+5,"016","Pillared Temple Hall, India",5,155
+5,"017","Avalokiteshvara, India",5,156
+5,"018","Dancing Ganesha, India",5,157
+5,"019","Tang Dynasty Ceramics, China",5,158
+5,"021","Moon Crystal, China",5,159
+5,"022","Palace Reception Hall, China",5,160
+5,"023","Vase, Korea",5,161
+5,"024","Tea House and Temple, Japan",5,162
+5,"025","Avalokiteshvara, Khmer Empire",5,163
+5,"601","Seated Bodhisattva, China",5,164
+5,"602","Seated Guanyin, China",5,165
+5,"603","Ceremonial Blade, China",5,166
+5,"605","Model of a Building, China",5,167
+5,"606","Hill Jar with Lid, China",5,168
+5,"607","Coffin Base from a Tomb, China",5,169
+5,"608","Vase with Eight Daoist Immortals, China",5,170
+5,"609","Bowl with the Three Friends of Winter, China",5,171
+5,"610","Scholar's Study, China",5,172
+5,"611","Ming Lacquer Tray, China",5,173
+5,"612","Ting Ritual Food Vessel, China",5,174
+5,"614","Calendrical Figures from a Tang Tomb, China",5,175
+5,"615","Dragon Jar, Korea",5,176
+5,"616","Blanket Chest, Korea",5,177
+5,"617","Tiger, Korea",5,178
+5,"618","Buddha, Korea",5,179
+5,"619","Boy Attendant, Korea",5,180
+5,"620","Head of Buddha, Thailand",5,181
+5,"621","Headpiece, Thailand",5,182
+5,"622","Cabinet, Thailand",5,183
+5,"623","Porcelain, China",5,184
+5,"625","Nandi, the Sacred Bull of Shiva, India",5,185
+5,"626","Jina Seated in Meditation, India",5,186
+5,"627","Head of a Bodhisattva, Pakistan",5,187
+5,"628","The Goddess Varahi, India",5,188
+5,"629","The Goddess Durga Killing the Buffalo Demon, India",5,189
+5,"630","Surya, the Sun God, India",5,190
+5,"631","Mask of the God Shiva, India",5,191
+5,"633","Ekamukha Shiva Linga (One-Faced Mark of the God Shiva), India",5,192
+5,"634","Dakini (Sarvabuddhadakini), Tibet",5,193
+5,"635","Green Tara, Tibet",5,194
+5,"636","Indra, King of the God's Heaven, Nepal",5,195
+5,"637","Illuminated Koran, Turkey",5,196
+5,"638","Cradle, Turkey",5,197
+5,"639","Handled Jug, Turkey",5,198
+5,"640","Enamelled Bowls, Persia (Iran)",5,199
+5,"641","Inkwell, Persia (Iran)",5,200
+5,"642","Tabouret, Persia (Iran)",5,201
+5,"643","Ceramic Mosaic Tile Panels, Persia (Iran)",5,202
+5,"644","Star-Shaped Ceramic Tile, Persia (Iran)",5,203
+5,"646","Shah Abbas Cubiculum, Persia (Iran)",5,204
+5,"647","Sasanian Palace Decoration, Persia (Iran)",5,205
+5,"648","Tree Carpet, Persia (Iran)",5,206
+5,"649","\"Lotto\" Rug, Turkey",5,207
+5,"650","\"Holbein\" Rug, Turkey",5,208
+5,"651","Bird Rug, Turkey",5,209
+5,"652","Marquand Medallion Carpet, Persia (Iran)",5,210
+5,"653","Dragon Rug, Caucasus",5,211
+5,"654","Mamluk Rug, Egypt",5,212
+5,"655","\"Admiral\" Heraldic Carpet, Spain",5,213
+5,"656","Vine-Scroll and Palmette Rug, Persia (Iran)",5,214
+6,"470","Discovering the Constantine Tapestries",6,215
+6,"471","Sea Battle between the Fleets of Constantine and Licinius",6,216
+6,"472","Marriage of Constantine and Fausta",6,217
+6,"473","Baptism of Constantine",6,218
+6,"474","Battle of the Milvian Bridge",6,219
+6,"475","Statue of Constantine",6,220
+6,"476","What sources inspired the design",6,221
+6,"477","Constantine Burning the Memorials",6,222
+6,"478","Triumphal Entry into Rome",6,223
+6,"479","Death of Constantine",6,224
+6,"480","Building of Constantinople",6,225
+6,"481","What do the symbols in the border mean",6,226
+6,"482","What is a tapestry",6,227
+6,"483","How were these tapestries made",6,228
+6,"484","Who owned these tapestries",6,229
+6,"485","Who was Constantine the Great",6,230
+7,"800","Introduction",7,231
+7,"801","Rodin Museum Architecture",7,232
+7,"802","Portrait of Rodin by Albert Guillaume",7,233
+7,"803","Rodin's Workshop",7,234
+7,"804","How Bronzes are Made",7,235
+7,"805","How Bronzes Change Over Time",7,236
+7,"806","Monuments",7,237
+7,"807","The Gates of Hell",7,238
+7,"808","Father Pierre-Julien Eymard",7,239
+7,"809","Mask of the Man with the Broken Nose",7,240
+7,"810","The Age of Bronze",7,241
+7,"811","The Call to Arms",7,242
+7,"812","Architectural Clay Model for \"The Gates of Hell\"",7,243
+7,"813","The Thinker",7,244
+7,"814","The Helmet-Maker's Wife",7,245
+7,"815","Adam & The Shade",7,246
+7,"816","Scene from the French Revolution",7,247
+7,"817","Eve",7,248
+7,"819","The Burghers of Calais",7,249
+7,"820","Assemblage of Heads of the \"Burghers of Calais\"",7,250
+7,"821","Kneeling Fauness",7,251
+7,"822","Clenched Hand and Left Hand",7,252
+7,"823","The Martyr",7,253
+7,"824","Head of Saint John the Baptist on a Platter",7,254
+7,"825","President Sarmiento",7,255
+7,"826","Monument to Balzac",7,256
+7,"827","Balzac as a Seal",7,257
+7,"828","The Benedictions",7,258
+7,"829","Youth Triumphant",7,259
+7,"830","Minerva",7,260
+7,"831","Ecclesiastes",7,261
+7,"832","The Athlete",7,262
+7,"833","Hanako",7,263
+7,"834","Pate-de-verre",7,264
+7,"835","Eternal Springtime",7,265
+7,"836","Mother in Grotto and Medea",7,266
+7,"837","The Cathedral",7,267
+8,"245","Portrait of John and Elizabeth Lloyd Cadwalader and Their Daughter Anne - Charles Willson Peale",8,268
+8,"250","Introduction Artists",8,269
+8,"222","Portraits of Lapowinsa and Tishcohan - Gustavus Hesselius - part 1",8,270
+8,"222-2","Portraits of Lapowinsa and Tishcohan - Gustavus Hesselius - part 2",8,271
+8,"903","Rush - Comedy and Tragedy",3,272
+8,"904","Copley - Portrait of the Mifflins",3,273
+8,"225","High Chest and Dressing Table - attributed to John Head",8,274
+8,"227","Rachel Weeping - Charles Willson Peale - part 1",8,277
+8,"227-2","Rachel Weeping - Charles Willson Peale - part 2",8,278
+8,"228","Portrait of Captain John Macpherson - Charles Willson Peale - part 1",8,279
+8,"228-2","Portrait of Captain John Macpherson - Charles Willson Peale - part 2",8,280
+8,"229","Teapot - Paul Revere, Jr.",8,281
+8,"230","Coffeepot - Philip Syng, Jr.",8,282
+8,"231","Hot Water Urn - Richard Humphreys - part 1",8,283
+8,"231-2","Hot Water Urn - Richard Humphreys - part 2",8,284
+8,"232","Punch Strainer - Benjamin Halstead",8,285
+8,"233","Tall Case Clock - Frederick Dominick",8,286
+8,"234","Windsor Chair",8,287
+8,"907","Peale - Staircase Group",3,288
+8,"235","Portrait of Edward Aisquith - Joshua Johnston - part 1",8,289
+8,"235-2","Portrait of Edward Aisquith - Joshua Johnston - part 2",8,290
+8,"236","Chest-on-Chest - Thomas Gross",8,291
+8,"237","Marquis and Marchioness de Casa Yrujo - Gilbert Stuart",8,292
+8,"238","Portrait of George Washington - Adolph-Ulrich Wertmuller",8,293
+8,"239","George Washington's Presidential China",8,294
+8,"240","Wardrobe (Schrank) - attributed to Peter Holl III and Christian Huber",8,295
+8,"241","Chest over Drawers, Pennsylvania German",8,296
+8,"242","\"Sholder Firelock\" Plate - attributed to David Spinner - part 1",8,297
+8,"242-2","\"Sholder Firelock\" Plate - attributed to David Spinner - part 2",8,298
+8,"243","Pennsylvania German Kitchen",8,299
+8,"244","Front Parlor of Powel House - part 1",8,300
+8,"244-2","Front Parlor of Powel House - part 2",8,301
+8,"246","Easy Chair - Workshop of Thomas Affleck - part 1",8,302
+8,"246-2","Easy Chair - Workshop of Thomas Affleck - part 2",8,303
+8,"247","Fire Screen - Workshop of Thomas Affleck",8,304
+8,"923","Houdon - Benjamin Franklin",3,305
+8,"248","Benjamin Franklin Drawing Electricity from the Sky - Benjamin West",8,306
+9,"061","Gothic Architecture",9,307
+9,"062","The Passion of Christ",9,308
+9,"063","Tapestries",9,309
+9,"064","Stone Masonry",9,310
+9,"065","Romanesque Architecture",9,311
+9,"101","Tapestry Showing the Lamentation",9,312
+9,"102","The Crucified Christ",9,313
+9,"103","Arched Window",9,314
+9,"104","Medallions Showing Old Testament Scenes",9,315
+9,"105","Adoration of the Magi",9,316
+9,"106","Mass of St. Gregory att. to the Budapest Master",9,317
+9,"107","Miracle of Castel Sant Angelo",9,318
+9,"108","Reliquary Bust of St. Benedict of Nursia",9,319
+9,"109","Crucifixion by van der Weyden",9,320
+9,"110","Admiral Heraldic Carpet",9,321
+9,"111","Dragon Rug",9,322
+9,"112","Quatrefoil Rug",9,323
+9,"113","Casket",9,324
+9,"114","Nativity and the Annunciation to the Shepherds",9,325
+9,"115","Chest",9,326
+9,"116","Fragment of a Tapestry Showing Allegory of Hope",9,327
+9,"117","Desk",9,328
+9,"118","Oak Carvings from England",9,329
+9,"119","Pieta by Gerini",9,330
+9,"120","Enthroned Virgin and Child by Lorenzetti",9,331
+9,"121","Franciscan Friar Kneeling in Devotion to St. Francis of Asisi",9,332
+9,"122","Archangel by di Buoninsegna",9,333
+9,"123","Virgin and Child with a Dog att. To Dalmasio",9,334
+9,"124","Virgin, Child and the Dead Christ by Nuzi",9,335
+9,"125","Triptych: Bridget's Vision",9,336
+9,"126","Virgin of Humility and St. Jerome Translating the Gospel of John",9,337
+9,"127","Enthroned Virgin and Child by Martorell",9,338
+9,"128","St. Cecelia of Rome and Her Husband, Valerianus",9,339
+9,"130","Sts. Peter and Paul / Sts. John and Martin",9,340
+9,"131","Christ Healing a Lunatic",9,341
+9,"132","Virgin and Child with Sts. Appolonia and Sebastian",9,342
+9,"133","Funeral of the Virgin",9,343
+9,"134","St. Francis of Assisi by Fra Angelico",9,344
+9,"135","Scenes from the Legend of Mary Magdalene by Botticelli",9,345
+9,"136","Sts. Peter and John by Tura",9,346
+9,"137","Veronica's Veil",9,347
+9,"139","Virgin and Child with Saints by Crivelli",9,348
+9,"140","Recumbent Knight",9,349
+9,"141","Christ Mocked and Presented to the People",9,350
+9,"142","Books of Hours",9,351
+9,"143","Reliquary (Chasse)",9,352
+9,"144","Arm Reliquary of St. Babylas",9,353
+9,"145","Processional Cross",9,354
+11,"251","Introduction to the Sculpture Garden",11,417
+9,"148","Christ as Saviour of Humankind by Master of Mansi Magdalene",9,356
+9,"149","Rest on the Flight into Egypt by Workshop of Pantinir",9,357
+9,"150","Christ Carrying the Cross by Master of the Turin Adoration",9,358
+9,"151","Christ and the Virgin, Campin",9,359
+9,"152","Enthroned Virgin and Child with Musical Angels, David",9,360
+9,"153","Lamentation, David",9,361
+9,"154","St. Francis of Assisi Receiving the Stigmata, Van Eyck",9,362
+9,"155","Alabaster Reliefs from Nottingham, England",9,363
+9,"201","French Romanesque: Overview 1",9,364
+9,"203","French Romanesque: Overview 2",9,365
+9,"202","French Gothic: Overview",9,366
+9,"209","Study Room: Overview",9,367
+9,"210","Early Italian Painting: Overview",9,368
+9,"211","International Gothic: Overview",9,369
+9,"212","Early Italian Renaissance: Overview",9,370
+9,"213","North Italian Renaissance: Overview",9,371
+9,"214","Late Gothic Room: Overview",9,372
+9,"215","French Gothic: Overview",9,373
+9,"216","French Gothic Chapel: Overview",9,374
+9,"217","Northern Renaissance: Overview 1",9,375
+9,"218","Northern Renaissance: Overview 2",9,376
+9,"219","Northern Renaissance: Overview 3",9,377
+9,"220","Middle Eastern Decorative Arts: Overview",9,378
+9,"221","Turkish Art 1500-1900: Overview",9,379
+10,"301","Alma-Tadema, Sir Laurence A Reading from Homer - part 1",10,380
+10,"301-2","Alma-Tadema, Sir Laurence A Reading from Homer - part 2",10,381
+10,"304","Boldini, Giovanni Highway of Combes-la-Ville",10,382
+10,"306","Cassatt, Mary Woman with a Pearl Necklace",10,383
+10,"307","Cézanne, Paul Mont Sainte-Victoire",10,384
+10,"308","Cézanne, Paul Still Life with a Dessert",10,385
+10,"309","Courbet, Gustave Waves",10,386
+10,"310","Degas, Hilaire-Germain-Edgar Little Dancer",10,387
+10,"313","Delacroix, Eugène Horses at a Fountain",10,388
+10,"315","Frédéric, Léon The Four Seasons",10,389
+10,"316","Gauguin, Paul The Sacred Mountain",10,390
+10,"317","Gemito, Vincenzo Portrait Bust",10,391
+10,"318","Mancini, Antonio Il Saltimbanco",10,392
+10,"319","Manet, Édouard Portrait of Émilie Ambre",10,393
+10,"322","Manet, Édouard Le Bon Bock",10,394
+10,"324","Millet, Jean-François Bird’s-Nesters",10,395
+10,"325","Monet, Claude Railroad Bridge, Argenteuil",10,396
+10,"326","Monet, Claude Poplars - part 1",10,397
+10,"326-2","Monet, Claude Poplars - part 2",10,398
+10,"327","Monet, Claude The Japanese",10,399
+10,"328","Pissarro, Camille Fair on a Sunny Afternoon",10,400
+10,"329","Pissarro, Camille L’Île Lacroix",10,401
+10,"331","de Chavannes, Pierre Puvis Peace and War",10,402
+10,"332","Renoir, Pierre-Auguste The Large Bathers",10,403
+10,"333","Rodin, Auguste The Thinker",10,404
+10,"334","Rousseau, Henri-Julien-Félix The Merry Jesters",10,405
+10,"335","Rusiñol, Santiago Interior of a Café",10,406
+10,"336","Sargent,John Singer In the Luxembourg Gardens",10,407
+10,"337","van Gogh, Vincent Mme Rolin and Baby",10,408
+10,"338","van Gogh, Vincent Rain",10,409
+10,"339","Diehl, Charles-Guillaume Jewelry Cabinet",10,410
+10,"341","Garden of Armida Wall Paper - part 1",10,411
+10,"341-2","The making of handblocked Wallpaper - part 2",10,412
+10,"342","Prometheus Vase, Minton",10,413
+10,"343","Guimard, Hector Fireplace",10,414
+10,"344","Dancer and Piper, Sevres",10,415
+10,"345","Barbizet, Achille Plaque",10,416
+11,"252","Noguchi, Origin",11,418
+11,"253","Noguchi, Origin - Kids Tour",11,419
+11,"254","Noguchi, To Darkness",11,420
+11,"255","Noguchi, To Darkness - Kids Tour",11,421
+11,"256","Noguchi, Dance",11,422
+11,"257","Noguchi, Dance - Kids Tour",11,423
+11,"260","Noguchi, Untitled (1986)",11,426
+11,"261","Noguchi, Untitled (1986) - Kids Tour",11,427
+11,"262","Isamu Noguchi - Biography",11,428
+12,"450","Introduction by Anne d'Harnoncourt",12,429
+12,"451","Arched Entrance: Architectural Styles",12,430
+12,"452","Arched Entrance: Sculptural Ornament",12,431
+12,"452-2","Arched Entrance: Sculptural Ornament (part 2)",12,432
+12,"453","Fairmount Avenue Wing: Sculptural Ornament",12,433
+12,"453-2","Fairmount Avenue Wing: Sculptural Ornament (part 2)",12,434
+12,"454","Entrance Lobby",12,435
+12,"455","Exhibition Gallery",12,436
+12,"456","Skylit Galleria",12,437
+12,"456-2","Skylit Galleria (part 2)",12,438
+12,"456-3","Skylit Galleria (part 3)",12,439
+12,"457","Collab Gallery for Modern and Contemporary Design",12,440
+12,"458","Joan Spain Gallery for Costume and Textiles",12,441
+12,"459","Julien Levy Gallery for Photography",12,442
+12,"460","Women’s Committee Foyer",12,443
+12,"460-2","Women’s Committee Foyer (part 2)",12,444
+12,"461","Glass Bridge",12,445
+12,"461-2","Glass Bridge (part 2)",12,446
+6,"486","Apparition of Cross",6,447
+3,"937","Van Gogh in Arles",3,449
+11,"263","Burton, Rock Chair",11,450
+11,"264","Burton, Rock Chair - Kids Tour",11,451
+11,"265","Schutte, Steel Woman II",11,452
+11,"266","Schutte, Steel Woman II - Kids Tour",11,453
+11,"267","Gund, Flukes",11,454
+11,"268","Gund, Flukes - Kids Tour",11,455
+13,"506","Grand Salon from the Chateau de Draveil",13,456
+13,"507","Gouthiere - Pair of Andirons",13,457
+13,"508","Savonneire Carpet",13,458
+13,"509","Carlin - Writing Table",13,459
+13,"510","Group of Sevres porcelain",13,460
+13,"511","Pair of Candlestands",13,461
+13,"512","Romer - Epergne",13,462
+13,"513","Chippendale - Chest of Drawers",13,463
+13,"514","Jacob - Writing Cabinet",13,464
+13,"515","Saenredam - Interior of St. Bavo",13,465
+13,"516","ter Borch - Officer Writing a Letter",13,466
+13,"517","Leyster - The Last Drop",13,467
+13,"518","Rembrandt - Head of Christ",13,468
+13,"519","van den Berghe - Still Life with Flowers",13,469
+13,"520","De Vos - Portrait of Reyniers Family",13,470
+13,"521","Snyders - Still Life with Bust of Ceres",13,471
+13,"522","van der Weyden - Crucifixion",13,472
+13,"523","de Vliegher - Marine",13,473
+13,"524","Vernet - Villa at Caprarola",13,474
+13,"525","Coypel - Abduction of Europa - part 1",13,475
+13,"526","Coypel - Abduction of Europa - part 2",13,476
+13,"527","Canaletto - The Bucintoro at the Molo on Ascension Day",13,477
+13,"528","Gainsborough - Portrait of Miss Elizabeth Linley",13,478
+13,"529","Hogarth - Assembly at Wanstead House",13,479
+13,"530","Constable - Sketch for Boat Passing a Lock",13,480
+13,"531","Tintoretto - Self Portrait",13,481
+13,"532","Pinturicchio - Virgin Teaching the Christ Child to Read",13,482
+13,"533","El Greco - Lamentation",13,483
+13,"534","Ribera - Virgin and Child",13,484
+13,"535","Pontormo - Portrait of Alessandro de' Medici",13,485
+13,"536","Nicola da Urbino - Dish with Diana and the Revival of Hippolytus",13,486
+13,"537","Desiderio - Virgin and Child",13,487
+13,"538","Fiorentino - Venus",13,488
+13,"539","Cradle",13,489
+13,"540","Room from Het Scheepje",13,490
+13,"541","Mexico, Jar with Handles (Talavera)",13,491
+13,"542","Mazzuoli - Death of Cleopatra",13,492
+13,"543","Clodion - Nymphs",13,493
+8,"004","Charles Willson Peale - Portrait of Yarrow Mamout (Muhammad Yaro)",8,503
+9,"545","Conservation of a Medici Chest",9,495
+8,"005","St. Gaudens - Angel of Purity",8,504
+11,"271","Burton, Bench and Table",11,497
+11,"272","Burton, Bench and Table - Kids Tour",11,498
+11,"273","Oldenburg, Giant Three Way Plug",11,499
+11,"274","Oldenburg, Giant Three Way Plug - Kids Tour",11,500
+11,"275","LeWitt, Steps and Pyramid (Philadelphia)",11,501
+11,"276","LeWitt, Steps and Pyramid (Philadelphia) - Kids Tour",11,502
+4,"043","Picasso - Three Musicians",4,506
+4,"398","Picasso - Woman with Loaves",4,507
+4,"399","Picasso -Study for Les Demoiselles d'Avignon",4,508
+4,"400","Picasso - Harmonica and Flageolet",4,509
+4,"406","Picasso - Man with a Violin",4,510
+4,"408","Picasso - Glass of Absinthe",4,511
+4,"420","Gris - Still Life-The Table",4,513
+4,"424","Gris - Still Life before an Open Window",4,514
+4,"426","Picasso - Bowl with Fruit, Violin and Wineglass",4,515
+4,"432","Weber - Group of Figures",4,516
+4,"433","Dickinson - Cafe Scene",4,517
+4,"437","Gris - Man in a Cafe",4,518
+4,"439","Metzinger - Tea Time",4,519
+4,"440","Lipchitz - Bather",4,520
+4,"441","Braque - Seated Bather",4,521
+4,"442","Miro - Head",4,522
+4,"443","Picasso - Design for a Monument",4,523
+4,"444","Brancusi - Mademoisells Pogany",4,524
+4,"446","Delaunay - La Prose de Transsiberien",4,525
+4,"447","Picasso - Book and Skull",4,526
+4,"448","Lipchitz - The Prayer",4,527
+4,"449","Picasso - Man with a Lamb",4,528
+4,"548","Chagall - Self-Portrait",4,529
+4,"549","Delaunay - Eiffel Tower",4,530
+4,"552","Chagall - Resurrection of Lazarus",4,531
+4,"553","Chagall - The Smolensk Newspaper",4,532
+4,"554","Chagall - Over Vitebsk",4,533
+4,"555","Chagall - Purim - part 1",4,534
+4,"556","Chagall - Purim - part 2",4,535
+4,"558","Chagall - Oh God",4,536
+4,"559","Modigliani - Portrait of a Polish Woman",4,537
+4,"560","Soutine - Portrait of Moïse Kisling",4,538
+4,"561","Chagall - The Watering Trough",4,539
+4,"562","Chagall - In the Night",4,540
